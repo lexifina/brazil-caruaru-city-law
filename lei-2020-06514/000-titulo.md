@@ -1,0 +1,2 @@
+# LEI Nº 6514/2020 Dispõe sobre a obrigatoriedade de publicação no site oficial e portal da transparência da prefeitura, as informações sobre a aplicação de recursos destinados à realização de eventos relacionados ao Carnaval, Semana Santa, São João e demais shows, eventos e apresentações culturais apoiados ou Promovidos pelo Poder Público Municipal.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CARUARU, Estado de Pernambuco, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei:
