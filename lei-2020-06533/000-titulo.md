@@ -1,0 +1,1 @@
+# LEI Nº 6533, DE 07 DE DEZEMBRO DE 2020 Denomina artéria nesta cidade e dá outras providências - RUA MARIA DE LOURDES SAMPAIO CARNEIRO O PRESIDENTE DA CÂMARA MUNICIPAL DE CARUARU, Estado de Pernambuco, faz saber que a CâmaraMunicipal aprovou e ele PROMULGA a seguinte Lei:
