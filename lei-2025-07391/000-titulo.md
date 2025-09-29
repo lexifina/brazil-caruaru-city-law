@@ -1,0 +1,2 @@
+# LEI Nº 7.391, DE 29 DE SETEMBRO DE 2025 PROMULGADA Estabelece o direito ao nome em logradouro público, todo servidor público, das esferas municipal, estadual e federal, que venha a falecer, no estrito cumprimento do dever funcional no território do Município.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CARUARU, Estado de Pernambuco, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei:
