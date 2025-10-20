@@ -1,0 +1,2 @@
+# LEI Nº 7.408, DE 20 DE OUTUBRO DE 2025 PROMULGADA Institui no Calendário Oficial de Eventos do Município de Caruaru o "Junho Vermelho", destinado à campanha de incentivar a doação de sangue e conscientizar a população sobre a importância dessa prática para salvar vidas, e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CARUARU, Estado de Pernambuco, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei:
