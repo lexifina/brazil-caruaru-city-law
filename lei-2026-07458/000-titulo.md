@@ -1,0 +1,2 @@
+# LEI Nº 7.458, DE 12 DE JANEIRO DE 2026 PROMULGADA Institui no Calendário Oficial de Eventos do Município de Caruaru o "Agosto Dourado", destinado à campanha de incentivo ao aleitamento materno e conscientização da população sobre a importância dessa prática para a saúde e desenvolvimento de bebês e mães, e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CARUARU, Estado de Pernambuco, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei:
