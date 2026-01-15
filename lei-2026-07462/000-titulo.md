@@ -1,0 +1,1 @@
+# LEI Nº 7.462, DE 15 DE JANEIRO DE 2026 PROMULGADA Denomina artéria no Município de Caruaru e dá outras providências. - PRAÇA SAGRADA FAMÍLIA O PRESIDENTE DA CÂMARA MUNICIPAL DE CARUARU, Estado de Pernambuco, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei:
