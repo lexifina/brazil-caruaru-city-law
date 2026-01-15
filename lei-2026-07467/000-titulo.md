@@ -1,0 +1,1 @@
+# LEI Nº 7.467, DE 15 DE JANEIRO DE 2026 PROMULGADA Denomina artéria no Município de Caruaru e dá outras providências. - Avenida Manacá-da-Serra O PRESIDENTE DA CÂMARA MUNICIPAL DE CARUARU, Estado de Pernambuco, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei:
