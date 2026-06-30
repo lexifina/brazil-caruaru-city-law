@@ -1,0 +1,2 @@
+# LEI Nº 7.523, DE 30 DE JUNHO DE 2026 PROMULGADA Institui a Semana da Mulher Rural no calendário oficial do Município de Caruaru, a ser realizada anualmente na semana que compreende o Dia Internacional da Mulher Rural (15 de outubro), estabelece diretrizes para sua implementação em parceria com entidades da sociedade civil e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CARUARU, Estado de Pernambuco, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei:
