@@ -1,0 +1,1 @@
+# LEI Nº 7.528, DE 01 DE OUTUBRO DE 2026 PROMULGADA Denomina artéria no Município de Caruaru e dá outras providências. - Rua Grécia O PRESIDENTE DA CÂMARA MUNICIPAL DE CARUARU, Estado de Pernambuco, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei:
