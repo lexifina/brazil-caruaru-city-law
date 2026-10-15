@@ -1,0 +1,2 @@
+# LEI Nº 7.555, DE 15 DE OUTUBRO DE 2026 PROMULGADA Acrescenta o art. 2º-A à Lei nº 5.010, de agosto de 2010, para estabelecer diretrizes de promoção, prevenção e apoio à saúde mental e emocional no âmbito do Programa de Assistência Social e Psicológica nas instituições da rede municipal de ensino de Caruaru e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CARUARU, Estado de Pernambuco, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei:
