@@ -1,0 +1,9 @@
+{
+  "path": "br-pe-caruaru",
+  "code": "BR-PE-CARUARU",
+  "name": "Caruaru (city)",
+  "level": "municipality",
+  "parent": "br-pe",
+  "repo": "https://github.com/lexifina/brazil-caruaru-city-law",
+  "build": "built: the law of Caruaru from the Câmara Municipal's SAPL"
+}

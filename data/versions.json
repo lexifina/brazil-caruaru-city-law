@@ -1,0 +1,2623 @@
+{
+ "country": "BR-PE-CARUARU",
+ "acts": [
+  {
+   "slug": "lei-2026-07557",
+   "short": "Lei 7557/2026",
+   "title": "Lei nº 7.557, de 15 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10468",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10468/lei_7557-2026__pl10229-2025_-_promulgada.pdf",
+     "sha256": "789a037f49102347c60d89635eb7ab277efb75b3b606a7567b2527439af74d36"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07556",
+   "short": "Lei 7556/2026",
+   "title": "Lei nº 7.556, de 15 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10467",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10467/lei_7556-2026__pl10314-2025_-_promulgada.pdf",
+     "sha256": "3b7e5dd340e7eb423744788e98822b48352136a2c15d6383c90cf46d5aaaa016"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07555",
+   "short": "Lei 7555/2026",
+   "title": "Lei nº 7.555, de 15 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10466",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10466/lei_7555-2026__pl10325-2025_-_promulgada.pdf",
+     "sha256": "be2e54a136814372aa2cca9653f0a81b1df48c8092034304a0db4c3ba4246d32"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07554",
+   "short": "Lei 7554/2026",
+   "title": "Lei nº 7.554, de 15 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10465",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10465/lei_7554-2026__pl10338-2025_-_promulgada.pdf",
+     "sha256": "4e8b527d86da4ea966b3e2052793b3003e55794b9a3c052b9a8a4f5912e427ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07553",
+   "short": "Lei 7553/2026",
+   "title": "Lei nº 7.553, de 15 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10464",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 6,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10464/lei_7553-2026__pl10339-2025_-_promulgada.pdf",
+     "sha256": "66d5c5d0bb98af5735a0c547a0188901ca2542cd2b0ac34d1d0b0db8583cda10"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07552",
+   "short": "Lei 7552/2026",
+   "title": "Lei nº 7.552, de 15 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10463",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10463/lei_7552-2026__pl10340-2025_-_promulgada.pdf",
+     "sha256": "ddace6cee10598eb75dfb95cd161fbfd75b86f539fe0d32f4a2741373368c27a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07551",
+   "short": "Lei 7551/2026",
+   "title": "Lei nº 7.551, de 6 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10451",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10451/lei_7551-2026__pl10392-2026_-_promulgada.pdf",
+     "sha256": "10083fda4bf6c11bd6d72c003b733f19e98728efce709f860c1b37ef4911c5f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07550",
+   "short": "Lei 7550/2026",
+   "title": "Lei nº 7.550, de 6 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10450",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10450/lei_7550-2026__pl10398-2026_-_promulgada.pdf",
+     "sha256": "6ec8cc9539055ad7332d2a2b2d77a58883b60a89143c1b88e3030d714ade7517"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07549",
+   "short": "Lei 7549/2026",
+   "title": "Lei nº 7.549, de 6 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10449",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10449/lei_7549-2026__pl10399-2026_-_promulgada.pdf",
+     "sha256": "bbcebf5949dbfbee0a160bde4e1d6f6b943c87ff824880c8a24717c9b6a2e857"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07548",
+   "short": "Lei 7548/2026",
+   "title": "Lei nº 7.548, de 6 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10448",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10448/lei_7548-2026__pl10403-2026_-_promulgada.pdf",
+     "sha256": "b9a671c43c41c4e5146e282ef7d48cc7e4965f55f16616476cd74a2e7477975e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07547",
+   "short": "Lei 7547/2026",
+   "title": "Lei nº 7.547, de 6 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10447",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10447/lei_7547-2026__pl10405-2026_-_promulgada.pdf",
+     "sha256": "b00ef9b175b0b2125c57a9d8c56e0203d694cd2ebfeff6513e35e49fc7d8b46c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07546",
+   "short": "Lei 7546/2026",
+   "title": "Lei nº 7.546, de 6 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10446",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10446/lei_7546-2026__pl10406-2026_-_promulgada.pdf",
+     "sha256": "4036be52fd135f18090e6d1117d89fd4ded748edccb54048770920c3035492f6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07545",
+   "short": "Lei 7545/2026",
+   "title": "Lei nº 7.545, de 6 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10445",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10445/lei_7545-2026__pl10407-2026_-_promulgada.pdf",
+     "sha256": "46fd52cb0ed18e4c8d713e70257504866e079718a2c9ba13415ecbc2c52fe59e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07544",
+   "short": "Lei 7544/2026",
+   "title": "Lei nº 7.544, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10444",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10444/lei_7544-2026__pl9967-2024_-_promulgada.pdf",
+     "sha256": "4ec107ea0b4680fd237c01c9a78c2a1a26b481bf4690c08945a74aba1dfaad77"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07543",
+   "short": "Lei 7543/2026",
+   "title": "Lei nº 7.543, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10443",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10443/lei_7543-2026__pl10065-2025_-_promulgada.pdf",
+     "sha256": "9a589bef229536922ce1c5155a9cf733427e20ed4de03818eab8d9b25b1fd8fb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07542",
+   "short": "Lei 7542/2026",
+   "title": "Lei nº 7.542, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10442",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10442/lei_7542-2026__pl10121-2025_-_promulgada.pdf",
+     "sha256": "4fd350799b6f80b84016a537a226a18b35bba58ab38cb44db219c4a3ca38906f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07541",
+   "short": "Lei 7541/2026",
+   "title": "Lei nº 7.541, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10441",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10441/lei_7541-2026__pl10257-2025_-_promulgada.pdf",
+     "sha256": "3dfa86b7be16583cc39ad313e28f42f2890c9c662acf37df2461c75e462d49ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07540",
+   "short": "Lei 7540/2026",
+   "title": "Lei nº 7.540, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10440",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10440/lei_7540-2026__pl10258-2025_-_promulgada.pdf",
+     "sha256": "aa2deaf6a419ee8733a32d1247348969d5eef41f96137fafab16eb5ff69fc917"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07539",
+   "short": "Lei 7539/2026",
+   "title": "Lei nº 7.539, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10439",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10439/lei_7539-2026__pl10259-2025_-_promulgada.pdf",
+     "sha256": "d28153b9605ff27a6d378f1337c97971deb892b17fe31ff052ee7118ea5b54fa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07538",
+   "short": "Lei 7538/2026",
+   "title": "Lei nº 7.538, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10438",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10438/lei_7538-2026__pl10261-2025_-_promulgada.pdf",
+     "sha256": "a9fe10dbc0536ce9d900a95d512170266f77071a66695d18e43dc9c106eef5ea"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07537",
+   "short": "Lei 7537/2026",
+   "title": "Lei nº 7.537, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10437",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10437/lei_7537-2026__pl10262-2025_-_promulgada.pdf",
+     "sha256": "2774b00b27f54b671fce411f55bd0af26380038ad3fa3da4d7197c0110574848"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07536",
+   "short": "Lei 7536/2026",
+   "title": "Lei nº 7.536, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10436",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10436/lei_7536-2026__pl10265-2025_-_promulgada.pdf",
+     "sha256": "e302ca01ce77c5aedda5332bc164d2da1c4505978309551188447e6cc21655d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07535",
+   "short": "Lei 7535/2026",
+   "title": "Lei nº 7.535, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10435",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10435/lei_7535-2026__pl10308-2025_-_promulgada.pdf",
+     "sha256": "4b4b225569a1d53b0c7fd6d9a75a09bff68047a73ee55cc8977f51c37c3664c4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07534",
+   "short": "Lei 7534/2026",
+   "title": "Lei nº 7.534, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10434",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10434/lei_7534-2026__pl10374-2026_-_promulgada.pdf",
+     "sha256": "09a324df6a5d3eb5d0f45c699b7acd5eac1fadcead89df930a7cbd647a6e588c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07533",
+   "short": "Lei 7533/2026",
+   "title": "Lei nº 7.533, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10433",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10433/lei_7533-2026__pl10375-2026_-_promulgada.pdf",
+     "sha256": "535efcd1585e92bc2161efca65f64ae12ff93b795554d9972b209b607e3f9b53"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07532",
+   "short": "Lei 7532/2026",
+   "title": "Lei nº 7.532, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10432",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10432/lei_7532-2026__pl10386-2026_-_promulgada.pdf",
+     "sha256": "b12f24c2df6ba9ecc96cc9682cc2e39e69b6996db7a451d820a409de207a9a8c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07531",
+   "short": "Lei 7531/2026",
+   "title": "Lei nº 7.531, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10431",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10431/lei_7531-2026__pl10393-2026_-_promulgada.pdf",
+     "sha256": "f3e80b4eb82441576232fb354bb68ffb848e347007ebcb7eeb414a14f8ad69be"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07530",
+   "short": "Lei 7530/2026",
+   "title": "Lei nº 7.530, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10430",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10430/lei_7530-2026__pl10394-2026_-_promulgada.pdf",
+     "sha256": "9b07e8bf354ba8989a36367742b8cb3222eae2e8084e35837d9aacf9615e9903"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07529",
+   "short": "Lei 7529/2026",
+   "title": "Lei nº 7.529, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10429",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10429/lei_7529-2026__pl10395-2026_-_promulgada.pdf",
+     "sha256": "df9b3d70b859cbb5f70ef90461116b3b3ccc11b4fded1125d3bef698dc7fea8f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07528",
+   "short": "Lei 7528/2026",
+   "title": "Lei nº 7.528, de 1 de outubro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10428",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10428/lei_7528-2026__pl10397-2026_-_promulgada.pdf",
+     "sha256": "6bf4332554f8ef6728f8b175d9af851a75782a2b2c077616a941c847790d39fa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07523",
+   "short": "Lei 7523/2026",
+   "title": "Lei nº 7.523, de 30 de junho de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10394",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 6,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10394/lei_7523-2026__pl10411-2026_-_promulgada.pdf",
+     "sha256": "7bf2f4e9bfad199f8e860d4ef4aff88971fa3e053f02abf561af14dd5f8991c3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07505",
+   "short": "Lei 7505/2026",
+   "title": "Lei nº 7.505, de 18 de junho de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10369",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10369/lei_7505-2026__pl10425-2026_-_promulgada.pdf",
+     "sha256": "48d98fb785ac2e9a297b033a02a555b3fc6517a16feaf6f628e6f563261526b7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07504",
+   "short": "Lei 7504/2026",
+   "title": "Lei nº 7.504, de 8 de junho de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10368",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10368/lei_7504-2026__pl10268-2025_-_promulgada.pdf",
+     "sha256": "e7136fedb72c0c57a01d60fbfbcf186a75a326a2b4e20079f60db34854aaf1d7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07501",
+   "short": "Lei 7501/2026",
+   "title": "Lei nº 7.501, de 27 de maio de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10360",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10360/lei_7501-2026__pl10136-2025_-_promulgada.pdf",
+     "sha256": "43c13ce4f69cdc9eaeb83008c1ef8aeea818a63ff83f920ba978746ed641bfca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07500",
+   "short": "Lei 7500/2026",
+   "title": "Lei nº 7.500, de 25 de maio de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10359",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10359/lei_7500-2026__pl10371-2026_-_promulgada.pdf",
+     "sha256": "1b24da2710be9a6f5b8ab3889019eb964638c872991df95f8be9f53618e96ccf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07499",
+   "short": "Lei 7499/2026",
+   "title": "Lei nº 7.499, de 25 de maio de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10358",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10358/lei_7499-2026__pl10409-2026_-_promulgada.pdf",
+     "sha256": "b34d46d7bce20046768b519964869588b1829eda783abc5ce54defed8063574d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07498",
+   "short": "Lei 7498/2026",
+   "title": "Lei nº 7.498, de 19 de maio de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10351",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10351/lei_7498-2026__pl8233-2029_-_promulgada.pdf",
+     "sha256": "ca9fed90786399e571859d1c3931cea8108de2012a26038e7a37dd5a4ebaf940"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07497",
+   "short": "Lei 7497/2026",
+   "title": "Lei nº 7.497, de 13 de maio de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10343",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10343/lei_7497-2026__pl10367-2026_-_promulgada.pdf",
+     "sha256": "95772b95bd9efeef98a7da9e98949b9d184fee2e8c904134b4092a1e742ddb41"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07496",
+   "short": "Lei 7496/2026",
+   "title": "Lei nº 7.496, de 13 de maio de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10342",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10342/lei_7496-2026__pl10370-2026_-_promulgada.pdf",
+     "sha256": "6efd4f68a9567d9b91abe1d778a4585d54b8128a356a370c36b9727fc525c22b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07495",
+   "short": "Lei 7495/2026",
+   "title": "Lei nº 7.495, de 12 de maio de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10331",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10331/lei_7495-2026__pl10385-2026_-_promulgada.pdf",
+     "sha256": "51b22d7a39cfb8e4b94cad3a1409c5d10b2fe45c473c54f8f33a1d2e9bbdb769"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07492",
+   "short": "Lei 7492/2026",
+   "title": "Lei nº 7.492, de 15 de abril de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10307",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10307/lei_7492-2026__pl10344-2025_-_promulgada.pdf",
+     "sha256": "91d6e4d6b76ee3659b1906358a20e76f195525911bc2f32897645546f7a8a9f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07491",
+   "short": "Lei 7491/2026",
+   "title": "Lei nº 7.491, de 15 de abril de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10306",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 7,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10306/lei_7491-2026__pl10361-2026_-_promulgada.pdf",
+     "sha256": "eb69879a8e4274ff31029838f49717f36d8e53f2a78794da0d3f97c158046dd1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07490",
+   "short": "Lei 7490/2026",
+   "title": "Lei nº 7.490, de 15 de abril de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10305",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 7,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10305/lei_7490-2026__pl10362-2026_-_promulgada.pdf",
+     "sha256": "5ada6d5cdcf400884de7b5056e6d1bfe8047ab004d31f020ba342fe23562f4cd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07489",
+   "short": "Lei 7489/2026",
+   "title": "Lei nº 7.489, de 15 de abril de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10304",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 6,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10304/lei_7489-2026__pl10363-2026_-_promulgada.pdf",
+     "sha256": "2c65db4b9b4ca31c1b17d1407e80ba40753c719e8a0b67f31dda7696b78343b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07487",
+   "short": "Lei 7487/2026",
+   "title": "Lei nº 7.487, de 6 de abril de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10300",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10300/lei_7487-2026__pl10301-2025_-_promulgada.pdf",
+     "sha256": "56ad9e68fb09749b9b6bd808163287ea2d6e5468329c65d57b1d0034d09f947b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07486",
+   "short": "Lei 7486/2026",
+   "title": "Lei nº 7.486, de 6 de abril de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10299",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10299/lei_7486-2026__pl10302-2025_-_promulgada.pdf",
+     "sha256": "1f75f2a893e5ca72bcade9043693e10e19a581fc9b5728e01ee347d98ddd41e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07485",
+   "short": "Lei 7485/2026",
+   "title": "Lei nº 7.485, de 6 de abril de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10298",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10298/lei_7485-2026__pl10355-2026_-_promulgada.pdf",
+     "sha256": "8daa839aceb10ec45cc7ef9a656da47f35d8811180d93878f287b6545586f539"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07484",
+   "short": "Lei 7484/2026",
+   "title": "Lei nº 7.484, de 1 de abril de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10297",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10297/lei_7484-2026__pl10235-2025_-_promulgada.pdf",
+     "sha256": "08136b9bdb30b4391f45ba661c11954d169f4889b3dac265a7eaf0515ead1a40"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07480",
+   "short": "Lei 7480/2026",
+   "title": "Lei nº 7.480, de 20 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10251",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10251/lei_7480-2026__pl10023-2025_-_promulgada.pdf",
+     "sha256": "5c519637bd278ae858a792552a8e4245008920731df8052799637cfb35fcd749"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07479",
+   "short": "Lei 7479/2026",
+   "title": "Lei nº 7.479, de 19 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10250",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10250/lei_7479-2026__pl10153-2025_-_promulgada.pdf",
+     "sha256": "9f27c0424ca9809c654acbfb884d7752df44412acb0c0f4ab1856ab837c42077"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07478",
+   "short": "Lei 7478/2026",
+   "title": "Lei nº 7.478, de 19 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10249",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 6,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10249/lei_7478-2026__pl10222-2025_-_promulgada.pdf",
+     "sha256": "4d04d346fef893986c1b43ccec9ebdd5100ff67861d65e3dff0b4c99853c1dd4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07477",
+   "short": "Lei 7477/2026",
+   "title": "Lei nº 7.477, de 19 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10248",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10248/lei_7477-2026__pl10275-2025_-_promulgada.pdf",
+     "sha256": "f637e316f62eb5f01bfff2d9770e6b59c44afb52960e55f0ab3ca0bd9646b629"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07475",
+   "short": "Lei 7475/2026",
+   "title": "Lei nº 7.475, de 15 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10247",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10247/lei_7475-2026__pl10133-2025_-_promulgada.pdf",
+     "sha256": "ecf4fe38f384a345cb41fb72830e79785e1e342ea5818d82c1b839eca69df895"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07474",
+   "short": "Lei 7474/2026",
+   "title": "Lei nº 7.474, de 15 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10246",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10246/lei_7474-2026__pl10204-2025_-_promulgada.pdf",
+     "sha256": "e611f78f04768cbdbb73ac7e95597e2e4504ed08064980d865a503b5ab140b4b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07473",
+   "short": "Lei 7473/2026",
+   "title": "Lei nº 7.473, de 15 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10245",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10245/lei_7473-2026__pl10232-2025_-_promulgada.pdf",
+     "sha256": "aecfe1cbf10b82815edcc609ef379a3618662948dfb326c4523645db5a20ad9f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07472",
+   "short": "Lei 7472/2026",
+   "title": "Lei nº 7.472, de 15 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10244",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10244/lei_7472-2026__pl10234-2025_-_promulgada.pdf",
+     "sha256": "e357c660949de523ba1dfa57ca0965bbce98664ca07e9777112df2e9fd155669"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07471",
+   "short": "Lei 7471/2026",
+   "title": "Lei nº 7.471, de 15 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10243",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10243/lei_7471-2026__pl10236-2025_-_promulgada.pdf",
+     "sha256": "4633b55990875e3ec795a32c0002762be5923666c4aee788c135ff655a7d1c7c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07470",
+   "short": "Lei 7470/2026",
+   "title": "Lei nº 7.470, de 15 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10242",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10242/lei_7470-2026__pl10237-2025_-_promulgada.pdf",
+     "sha256": "5d07d14f07896e1ede2f7c58f06080c7eb90105a98d6566d78ea04d9e273b362"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07469",
+   "short": "Lei 7469/2026",
+   "title": "Lei nº 7.469, de 15 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10241",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10241/lei_7469-2026__pl10238-2025_-_promulgada.pdf",
+     "sha256": "408c754fd8edff1bf6220186d042e534bb4a3d521d660034df55a30cc981125d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07468",
+   "short": "Lei 7468/2026",
+   "title": "Lei nº 7.468, de 15 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10240",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10240/lei_7468-2026__pl10239-2025_-_promulgada.pdf",
+     "sha256": "c62a781ebc6b4dfc5e1c16d846ac7bf115f6ea164e246a6176350360ec1d4ba3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07467",
+   "short": "Lei 7467/2026",
+   "title": "Lei nº 7.467, de 15 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10239",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10239/lei_7467-2026__pl10241-2025_-_promulgada.pdf",
+     "sha256": "39bd234dc62a0a04e768e2ca7c4746c8ecbd7f332d1ae2d0669ab73132cd9c76"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07466",
+   "short": "Lei 7466/2026",
+   "title": "Lei nº 7.466, de 15 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10238",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10238/lei_7466-2026__pl10245-2025_-_promulgada.pdf",
+     "sha256": "3088931c6af5c246cefdd842e5948f8aa9f50d2a051515af553ba8854061f7b8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07465",
+   "short": "Lei 7465/2026",
+   "title": "Lei nº 7.465, de 15 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10237",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10237/lei_7465-2026__pl10246-2025_-_promulgada.pdf",
+     "sha256": "3036746f5552f9b13920fbf136bff270c4a001690aeb49446acd2e9faa5054a6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07464",
+   "short": "Lei 7464/2026",
+   "title": "Lei nº 7.464, de 15 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10236",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10236/lei_7464-2026__pl10247-2025_-_promulgada.pdf",
+     "sha256": "ac79503b56c9602ab565b055fd2978f10ad3398147f25cb78a5664909c9662a2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07463",
+   "short": "Lei 7463/2026",
+   "title": "Lei nº 7.463, de 15 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10235",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10235/lei_7463-2026__pl10248-2025_-_promulgada.pdf",
+     "sha256": "3fc60fe6312cff1b2733e1fc7ae92232581abbed14b1fdc2b2630962127819f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07462",
+   "short": "Lei 7462/2026",
+   "title": "Lei nº 7.462, de 15 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10234",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10234/lei_7462-2026__pl10252-2025_-_promulgada.pdf",
+     "sha256": "49dbcb3b2ac7bc301e321bcf9d11a1c252fe53fa863559507cb865a5c2482a8a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07461",
+   "short": "Lei 7461/2026",
+   "title": "Lei nº 7.461, de 13 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10208",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10208/lei_7461-2026__pl10208-2025_-_promulgada.pdf",
+     "sha256": "2ac667568ab4f3dfbf716e0aac58e32a1c6466028f8e05cd484cf1a5368c6f41"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07459",
+   "short": "Lei 7459/2026",
+   "title": "Lei nº 7.459, de 12 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10210",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 6,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10210/lei_7459-2026__pl10194-2025_-_promulgada.pdf",
+     "sha256": "0e69f204fce749208d294816dcb11c785810e2b8c0400908d3110f1b58eeda02"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07458",
+   "short": "Lei 7458/2026",
+   "title": "Lei nº 7.458, de 12 de janeiro de 2026",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10209",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2026/10209/lei_7458-2026__pl10201-2025_-_promulgada.pdf",
+     "sha256": "49a49fba2c5417c02dce36968379526011981083ee06e315c2d822d73a9546d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07444",
+   "short": "Lei 7444/2025",
+   "title": "Lei nº 7.444, de 18 de dezembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10191",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10191/lei_7444-2025__pl10150-2025_-_promulgada.pdf",
+     "sha256": "fdb369e2691b18355a6de4b581e64413a218f74cc28c8132e6463454bf8afc72"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07431",
+   "short": "Lei 7431/2025",
+   "title": "Lei nº 7.431, de 19 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10140",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10140/lei_7431-2025__pl10092-2025_-_promulgada.pdf",
+     "sha256": "a007c685573a13db7a839d29c5e816f5cfaf751a9e4ec72b275982664c0e788e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07430",
+   "short": "Lei 7430/2025",
+   "title": "Lei nº 7.430, de 19 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10139",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10139/lei_7430-2025__pl10093-2025_-_promulgada.pdf",
+     "sha256": "537591dfeac0c324d01d5c3c6583af1739ebcd205f40f62a564cf1dda5684cdb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07429",
+   "short": "Lei 7429/2025",
+   "title": "Lei nº 7.429, de 19 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10138",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10138/lei_7429-2025__pl10094-2025_-_promulgada.pdf",
+     "sha256": "4d797d4cfdacee726bf2a4a1e43d861fcccb039ce6cf785db51d700e25666bdd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07428",
+   "short": "Lei 7428/2025",
+   "title": "Lei nº 7.428, de 19 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10137",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10137/lei_7428-2025__pl10099-2025_-_promulgada.pdf",
+     "sha256": "b1244b3ef4db865a6858be18c03e06bb4f48617703645e11022ea898f3f4877d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07427",
+   "short": "Lei 7427/2025",
+   "title": "Lei nº 7.427, de 19 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10136",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10136/lei_7427-2025__pl10100-2025_-_promulgada.pdf",
+     "sha256": "6446f89ebc8ae4df3d5bbd4a30769d6aafcf7b3bb321c1f42286c17d585ce9b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07426",
+   "short": "Lei 7426/2025",
+   "title": "Lei nº 7.426, de 19 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10135",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10135/lei_7426-2025__pl10101-2025_-_promulgada.pdf",
+     "sha256": "9f0dd2c0c7125b29d5e5552331cc2049fc7a0f645e626de1df08df2514c612d1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07425",
+   "short": "Lei 7425/2025",
+   "title": "Lei nº 7.425, de 19 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10134",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10134/lei_7425-2025__pl10102-2025_-_promulgada.pdf",
+     "sha256": "e3177d7832f606bc781b021cca4f342f3860f90fce8aff8bb564a4c9923264ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07424",
+   "short": "Lei 7424/2025",
+   "title": "Lei nº 7.424, de 19 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10133",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10133/lei_7424-2025__pl10103-2025_-_promulgada.pdf",
+     "sha256": "7ff1b7c8e10951be8cc4c2e312adfa70a8360c35110951058e02a9cb67d40378"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07423",
+   "short": "Lei 7423/2025",
+   "title": "Lei nº 7.423, de 19 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10132",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10132/lei_7423-2025__pl10106-2025_-_promulgada.pdf",
+     "sha256": "894767478edc959501b4c3aceddb4077ad4591724a713fff0727a1a933666f20"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07422",
+   "short": "Lei 7422/2025",
+   "title": "Lei nº 7.422, de 19 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10131",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10131/lei_7422-2025__pl10108-2025_-_promulgada.pdf",
+     "sha256": "c15b9fd9d1e02e1650b8d07d227b241d7dfb85fbb17237bb1f460b9cc55dcaec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07421",
+   "short": "Lei 7421/2025",
+   "title": "Lei nº 7.421, de 19 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10130",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10130/lei_7421-2025__pl10135-2025_-_promulgada.pdf",
+     "sha256": "23f3cf301821086061e2bcce8b0e4bf562a44e46359b0c6c1853f2207e0d48ba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07420",
+   "short": "Lei 7420/2025",
+   "title": "Lei nº 7.420, de 19 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10129",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10129/lei_7420-2025__pl10190-2025_-_promulgada.pdf",
+     "sha256": "0a5374d60e34d9305f571f15e571d348d5df091a8b72d5c543f69945b87447f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07419",
+   "short": "Lei 7419/2025",
+   "title": "Lei nº 7.419, de 19 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10128",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10128/lei_7419-2025__pl10193-2025_-_promulgada.pdf",
+     "sha256": "3f08a85276442e9e1e91e555f63121abd34e65ed38c7d9f9825221134fb3cf24"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07418",
+   "short": "Lei 7418/2025",
+   "title": "Lei nº 7.418, de 14 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10126",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10126/lei_7418-2025__pl10284-2025_-_promulgada.pdf",
+     "sha256": "cd623c109078f66bd5e210249097357dd381d10adf35f53a62de86be0e673f5d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07415",
+   "short": "Lei 7415/2025",
+   "title": "Lei nº 7.415, de 5 de novembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10106",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10106/lei_7415-2025__pl10286-2025_-_promulgada.pdf",
+     "sha256": "3a7d9e68a0b7f61aa11f623c64240038a51b73c481bd248ce878848728798f66"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07409",
+   "short": "Lei 7409/2025",
+   "title": "Lei nº 7.409, de 22 de outubro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10104",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10104/lei_7409-2025__pl10221-2025_-_promulgada.pdf",
+     "sha256": "46c724c76989bfc30e266579d5dc0c6ba7058d8d9589b1f8a567bd7463aae091"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07408",
+   "short": "Lei 7408/2025",
+   "title": "Lei nº 7.408, de 20 de outubro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10103",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10103/lei_7408-2025__pl10132-2025_-_promulgada.pdf",
+     "sha256": "5cf498a33e9bf58d7354b800ec924b5e1c0c68fcd4466671d394ce811d4df946"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07407",
+   "short": "Lei 7407/2025",
+   "title": "Lei nº 7.407, de 20 de outubro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10102",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10102/lei_7407-2025__pl10118-2025_-_promulgada.pdf",
+     "sha256": "6d0c54fe8769dbdcae02f5673a661bb35257a71d68f0c34538a9291b542bc372"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07401",
+   "short": "Lei 7401/2025",
+   "title": "Lei nº 7.401, de 10 de outubro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10101",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10101/lei_7401-2025__pl10022-2025_-_promulgada.pdf",
+     "sha256": "9d7f91449b7928f9fa2cd9d6a667bd1b855ffc160999d80c9f3ab28ab4d3cda5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07400",
+   "short": "Lei 7400/2025",
+   "title": "Lei nº 7.400, de 10 de outubro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10100",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10100/lei_7400-2025__pl10037-2025_-_promulgada.pdf",
+     "sha256": "1cf8fd20ba63458249cdc00431c2a5893a71eae83d84074b28aa507327ad9c39"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07399",
+   "short": "Lei 7399/2025",
+   "title": "Lei nº 7.399, de 2 de outubro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10082",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10082/lei_7399-2025__pl10212-2025_-_promulgada.pdf",
+     "sha256": "5ee6c0be45f51bda8806056533a6e7f9a3b81544a6d6a172fa169c49f95c4f8c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07398",
+   "short": "Lei 7398/2025",
+   "title": "Lei nº 7.398, de 2 de outubro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10081",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10081/lei_7398-2025__pl10213-2025_-_promulgada_1.pdf",
+     "sha256": "51d389cb1864748b448a49b6c1fb43b3a6327d1dabd865d70b8a6c9972210ed9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07397",
+   "short": "Lei 7397/2025",
+   "title": "Lei nº 7.397, de 2 de outubro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10080",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10080/lei_7397-2025__pl10215-2025_-_promulgada.pdf",
+     "sha256": "9be0628b59aa74d5f21e49b34c5c1b3a6093d2b2841cab2f8e6539d2e0688bd4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07396",
+   "short": "Lei 7396/2025",
+   "title": "Lei nº 7.396, de 2 de outubro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10079",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10079/lei_7396-2025__pl10216-2025_-_promulgada.pdf",
+     "sha256": "a047def8066b177d2e479611437e9f49754b7564a7cb86c460b9852e163c1f1a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07395",
+   "short": "Lei 7395/2025",
+   "title": "Lei nº 7.395, de 2 de outubro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10078",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10078/lei_7395-2025__pl10217-2025_-_promulgada.pdf",
+     "sha256": "418b5ac77bd77d7be89b84014f0f2b7f7e62ec99db39c81ac3705cf972609568"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07394",
+   "short": "Lei 7394/2025",
+   "title": "Lei nº 7.394, de 2 de outubro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10077",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10077/lei_7394-2025__pl10218-2025_-_promulgada.pdf",
+     "sha256": "9483d49968fef3ec5845a5874d9a87e6a007615cbf786282c8196d56def065bd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07392",
+   "short": "Lei 7392/2025",
+   "title": "Lei nº 7.392, de 29 de setembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10055",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10055/lei_7392-2025__pl10096-2025_-_promulgada.pdf",
+     "sha256": "018ec4be071975a85de3099227a808d69661e17dcaa5687ed60c7715efef204f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07391",
+   "short": "Lei 7391/2025",
+   "title": "Lei nº 7.391, de 29 de setembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10054",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10054/lei_7391-2025__pl10123-2025_-_promulgada.pdf",
+     "sha256": "6102aa43c75de7715a8aff95b40610a5dc1dda060c86f3c7ec1a21f6d6f41833"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07389",
+   "short": "Lei 7389/2025",
+   "title": "Lei nº 7.389, de 23 de setembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10042",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 6,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10042/lei_7389-2025__pl10143-2025_-_promulgada.pdf",
+     "sha256": "10bc6557923ee1093357382e539f251d570ad72dc42e9d224fcb88dc9a976615"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07388",
+   "short": "Lei 7388/2025",
+   "title": "Lei nº 7.388, de 23 de setembro de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/10041",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/10041/lei_7388-2025__pl10152-2025_-_promulgada.pdf",
+     "sha256": "824f8219f1186e120303f5325fcfc551c331f84abe95076e31c412d20496bc24"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07384",
+   "short": "Lei 7384/2025",
+   "title": "Lei nº 7.384, de 4 de julho de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9976",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 6,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/9976/lei_7384-2025__pl10105-2025_-_promulgada.pdf",
+     "sha256": "8b40c0faa929c3c6c43574e0dcb4cbdd27100fb5a8c4eaa844aa1da4b8bc4adb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07383",
+   "short": "Lei 7383/2025",
+   "title": "Lei nº 7.383, de 1 de julho de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9975",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/9975/lei_7383-2025__pl10128-2025_-_promulgada.pdf",
+     "sha256": "e1209951d548613c235238bb0b6935ba3112acc9ac11196c72440fae6a188e50"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07382",
+   "short": "Lei 7382/2025",
+   "title": "Lei nº 7.382, de 26 de junho de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9974",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/9974/lei_7382-2025__pl10107-2025_-_promulgada.pdf",
+     "sha256": "a5447b65b99b0d7c2c773cc53b5fc187b86686b65095e1be8dbc0d0452e6b5d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07366",
+   "short": "Lei 7366/2025",
+   "title": "Lei nº 7.366, de 23 de maio de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9969",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 10,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/9969/lei_7366-2025__pl10067-2025_-_promulgada.pdf",
+     "sha256": "2c7bda2710ad444aadb5c864a5c6d3af84c9370a3df71e7f15001d341228e9da"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07365",
+   "short": "Lei 7365/2025",
+   "title": "Lei nº 7.365, de 19 de maio de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9964",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/9964/lei_7365-2025__pl10078-2025_-_promulgada.pdf",
+     "sha256": "1a509be3252120be9d826de81395d3601c6f663ea965047317f846deae8f7572"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07362",
+   "short": "Lei 7362/2025",
+   "title": "Lei nº 7.362, de 25 de abril de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9946",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 6,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/9946/lei_7362-2025__pl10070-2025_-_promulgada.pdf",
+     "sha256": "a562f89a79e381b91a08444f3feb6eb802d317a3cb9b3eb0982a1abefb346297"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07361",
+   "short": "Lei 7361/2025",
+   "title": "Lei nº 7.361, de 23 de abril de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9944",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/9944/lei_7361-2025__pl10039-2025_-_promulgada.pdf",
+     "sha256": "965cbfe314d77ce10c96a5606ffd5cd39067d83a9779fce5c16caec9033a8226"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07360",
+   "short": "Lei 7360/2025",
+   "title": "Lei nº 7.360, de 23 de abril de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9943",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 7,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/9943/lei_7360-2025__pl10040-2025_-_promulgada.pdf",
+     "sha256": "3bbe2d515a7e525116afd67d5875ac2d48f45af22dffac19156e707d363bde83"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07359",
+   "short": "Lei 7359/2025",
+   "title": "Lei nº 7.359, de 23 de abril de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9942",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/9942/lei_7359-2025__pl9965-2024_-_promulgada.pdf",
+     "sha256": "5f42d92ffdbb6f8405c23c61bc992ccd3cb2870d91d5750dd1d71309357797db"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07355",
+   "short": "Lei 7355/2025",
+   "title": "Lei nº 7.355, de 15 de abril de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9936",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/9936/lei_7355-2025__pl10021-2025_-_promulgada.pdf",
+     "sha256": "0b4c98dec9a3b93537a3a92611e4beda672360d855cfc7a51e8253aabb4cdede"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07353",
+   "short": "Lei 7353/2025",
+   "title": "Lei nº 7.353, de 2 de abril de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9934",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/9934/lei_7353-2025__pl10045-2025_-_promulgada.pdf",
+     "sha256": "449c31fde816a13dd6195300466a5dd79ecab59c78f4b09f47b11f076db63c44"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07352",
+   "short": "Lei 7352/2025",
+   "title": "Lei nº 7.352, de 26 de março de 2025",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9906",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2025/9906/lei_7352-2025__pl10041-2025_-_promulgada.pdf",
+     "sha256": "e5e2ca09827b15efdf048f4b87ae09007edf95d72ac7ea3a4a16a0fd08ec1194"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07332",
+   "short": "Lei 7332/2024",
+   "title": "Lei nº 7.332, de 18 de dezembro de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9876",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9876/lei_7332-2024__pl9991-2024_-_promulgada.pdf",
+     "sha256": "4a66aeededca23e3eb5d3ae962b4987f040b1abf42a1c709243d48480630f089"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07331",
+   "short": "Lei 7331/2024",
+   "title": "Lei nº 7.331, de 18 de dezembro de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9875",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9875/lei_7331-2024__pl9990-2024_-_promulgada.pdf",
+     "sha256": "dee77092815a75c20cb0ce630e12ce388fa2c6d2f97fd489261a45af6a19a6f5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07330",
+   "short": "Lei 7330/2024",
+   "title": "Lei nº 7.330, de 18 de dezembro de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9874",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9874/lei_7330-2024__pl9979-2024_-_promulgada.pdf",
+     "sha256": "745e7268b9df98336ab02d1eeb71b34a52a777019d680cf4649c11a7ec3b3844"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07329",
+   "short": "Lei 7329/2024",
+   "title": "Lei nº 7.329, de 18 de dezembro de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9873",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 8,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9873/lei_7329-2024__pl9912-2024_-_promulgada.pdf",
+     "sha256": "e575f98a9a3211e8765152b9789fb856971deb3c6db5b944a2ded6509d561439"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07328",
+   "short": "Lei 7328/2024",
+   "title": "Lei nº 7.328, de 18 de dezembro de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9872",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9872/lei_7328-2024__pl9628-2023_-_promulgada.pdf",
+     "sha256": "61d2ab6766ab10874cb35c2dcb57e8f53443004fd473bd9da8d4ff40df721ec9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07322",
+   "short": "Lei 7322/2024",
+   "title": "Lei nº 7.322, de 9 de outubro de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9835",
+   "versions": [
+    {
+     "from": "2024-10-09",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9835/lei_7322-2024__pl8664-2020_-_promulgada.pdf",
+     "sha256": "1fb13f3c8a242dfee3584407f50484126a83755b1ee044ddefa5c21955a5fb91"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07321",
+   "short": "Lei 7321/2024",
+   "title": "Lei nº 7.321, de 9 de outubro de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9834",
+   "versions": [
+    {
+     "from": "2024-10-09",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9834/lei_7321-2024__pl9914-2024_-_promulgada.pdf",
+     "sha256": "b306e8c1074c1017c04d8540748401492120a55f1b1c5ae25f34b7dea069af96"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07320",
+   "short": "Lei 7320/2024",
+   "title": "Lei nº 7.320, de 9 de outubro de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9833",
+   "versions": [
+    {
+     "from": "2024-10-09",
+     "units": 8,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9833/lei_7320-2024__pl9930-2024_-_promulgada.pdf",
+     "sha256": "39e4a2cec06f15065ced07673d3d788f934c2effbe5fc5c8495b2b4021053245"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07318",
+   "short": "Lei 7318/2024",
+   "title": "Lei nº 7.318, de 11 de setembro de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9822",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9822/lei_7318-2024__pl9875-2024_-_promulgada.pdf",
+     "sha256": "02c2290f20396eee30558b8c3ca22b313376457bf01a863ecb74c7e737b91c31"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07317",
+   "short": "Lei 7317/2024",
+   "title": "Lei nº 7.317, de 11 de setembro de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9821",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9821/lei_7317-2024__pl9913-2024_-_promulgada.pdf",
+     "sha256": "d05c01991c50bcc7c09c0fdbed5f4f9ec37ee2efc1a00ed172ddfb49ac348f16"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07316",
+   "short": "Lei 7316/2024",
+   "title": "Lei nº 7.316, de 11 de setembro de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9820",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9820/lei_7316-2024__pl9949-2024_-_promulgada.pdf",
+     "sha256": "5f4798b7182b792aab912a49df2b85fdeb81c3fd8601d46412a767ae1a1feb90"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07315",
+   "short": "Lei 7315/2024",
+   "title": "Lei nº 7.315, de 9 de setembro de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9819",
+   "versions": [
+    {
+     "from": "2024-09-09",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9819/lei_7315-2024__pl9954-2024_-_promulgada.pdf",
+     "sha256": "c5bd6459f6402eb1add3070099aa2d55b270cf11033e8259a0afd75ac6f878b1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07314",
+   "short": "Lei 7314/2024",
+   "title": "Lei nº 7.314, de 9 de setembro de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9818",
+   "versions": [
+    {
+     "from": "2024-09-09",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9818/lei_7314-2024__pl9957-2024_-_promulgada.pdf",
+     "sha256": "d1a5cc576e935901a4f2a4bb29e048c74aa67d6362386e4b64ec8a5fe58291d1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07313",
+   "short": "Lei 7313/2024",
+   "title": "Lei nº 7.313, de 9 de setembro de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9817",
+   "versions": [
+    {
+     "from": "2024-09-09",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9817/lei_7313-2024__pl9959-2024_-_promulgada.pdf",
+     "sha256": "79eff1ea925901eabd3c6b40bcab06448e1fc27ca915ed7ce63a06a2fc10446d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07311",
+   "short": "Lei 7311/2024",
+   "title": "Lei nº 7.311, de 30 de agosto de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9815",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9815/lei_7311-2024__pl9947-2024_-_promulgada.pdf",
+     "sha256": "7d9d03952985c22601a7e70a7cea589da5105d084c7fd5b4b9afde85d18e19a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07310",
+   "short": "Lei 7310/2024",
+   "title": "Lei nº 7.310, de 30 de agosto de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9814",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9814/lei_7310-2024__pl9948-2024_-_promulgada.pdf",
+     "sha256": "a6d673a92f779c343e249b5e922343442d481f14e585a6306064b0518dcf042a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07309",
+   "short": "Lei 7309/2024",
+   "title": "Lei nº 7.309, de 30 de agosto de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9813",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9813/lei_7309-2024__pl9950-2024_-_promulgada.pdf",
+     "sha256": "e1ce36d92e23c236e13998e69c7db636eb65e9e8a9dfb5ad4f5de333b175616e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07308",
+   "short": "Lei 7308/2024",
+   "title": "Lei nº 7.308, de 30 de agosto de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9812",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9812/lei_7308-2024__pl9951-2024_-_promulgada.pdf",
+     "sha256": "40942211b0c7cb3f5cd5ec201dcc0f0257a3522029b6a64c78f5402a11c0125e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07307",
+   "short": "Lei 7307/2024",
+   "title": "Lei nº 7.307, de 30 de agosto de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9811",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9811/lei_7307-2024__pl9952-2024_-_promulgada.pdf",
+     "sha256": "0117870f831f0ccb17392f55dbe17aa9b4e44a9b04c827f5ac36e728dc90652f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07306",
+   "short": "Lei 7306/2024",
+   "title": "Lei nº 7.306, de 30 de agosto de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9810",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9810/lei_7306-2024__pl9953-2024_-_promulgada.pdf",
+     "sha256": "4d7fb1ad9fcc4c492d1411fe5c2cab381e91d7320739ea659cf40e02693e8c17"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07305",
+   "short": "Lei 7305/2024",
+   "title": "Lei nº 7.305, de 29 de agosto de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9809",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9809/lei_7305-2024__pl9939-2024_-_promulgada.pdf",
+     "sha256": "6d9f10f9375060a2ad2a451bfb9dffd2523433256df69acca69dec6852148588"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07304",
+   "short": "Lei 7304/2024",
+   "title": "Lei nº 7.304, de 29 de agosto de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9808",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9808/lei_7304-2024__pl9940-2024_-_promulgada.pdf",
+     "sha256": "9ee8b6af348181501dffaaabb710c1eba49df40d5f85e077637451900e897e80"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07303",
+   "short": "Lei 7303/2024",
+   "title": "Lei nº 7.303, de 29 de agosto de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9807",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9807/lei_7303-2024__pl9942-2024_-_promulgada.pdf",
+     "sha256": "09397bbab03c2d27891f77c674f14c615875511782890bed89ecd0f719a99a74"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07302",
+   "short": "Lei 7302/2024",
+   "title": "Lei nº 7.302, de 29 de agosto de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9806",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9806/lei_7302-2024__pl9943-2024_-_promulgada.pdf",
+     "sha256": "2f756518806eca1c069e05eb0cb38c2e5dac700a3729c32c4e0a00964d24a376"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07301",
+   "short": "Lei 7301/2024",
+   "title": "Lei nº 7.301, de 29 de agosto de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9805",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9805/lei_7301-2024__pl9944-2024_-_promulgada.pdf",
+     "sha256": "893d1b6b7d26907ef070ebd048e0148641bfcf13ba3cf916ce12759eb1ded4e5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07300",
+   "short": "Lei 7300/2024",
+   "title": "Lei nº 7.300, de 29 de agosto de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9804",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9804/lei_7300-2024__pl9945-2024_-_promulgada.pdf",
+     "sha256": "a18c88ae86eb975638078367665b6e8201ff3183e82dc954a3259b78d43e2e94"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07299",
+   "short": "Lei 7299/2024",
+   "title": "Lei nº 7.299, de 29 de agosto de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9803",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9803/lei_7299-2024__pl9946-2024_-_promulgada.pdf",
+     "sha256": "3b43f40c818ac2522836f11d3eabe58d6aa4dd8620938fa77acb8545793b5fac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07298",
+   "short": "Lei 7298/2024",
+   "title": "Lei nº 7.298, de 29 de agosto de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9802",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9802/lei_7298-2024__pl9961-2024_-_promulgada.pdf",
+     "sha256": "24b322211fa17dd60105c248557656c6461ccc2e01a7de57ef75138fb018ad60"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07289",
+   "short": "Lei 7289/2024",
+   "title": "Lei nº 7.289, de 15 de julho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9778",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9778/lei_7289-2024__pl9899-2024_-_promulgada.pdf",
+     "sha256": "ed7c0e148ca38d7e4815a3f4b897c675f0db1cd1f898670d9e743de153162615"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07288",
+   "short": "Lei 7288/2024",
+   "title": "Lei nº 7.288, de 15 de julho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9777",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9777/lei_7288-2024__pl9900-2024_-_promulgada.pdf",
+     "sha256": "abab92676d6c13e62929e094f34301943fb4a69aac517c8aa5e32b7dba62ee68"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07287",
+   "short": "Lei 7287/2024",
+   "title": "Lei nº 7.287, de 15 de julho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9776",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9776/lei_7287-2024__pl9901-2024_-_promulgada.pdf",
+     "sha256": "a5cff6433bc3889d8811bd0d283c9a4224a503ada0cca90c09b1c62f154e60e1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07286",
+   "short": "Lei 7286/2024",
+   "title": "Lei nº 7.286, de 15 de julho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9775",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9775/lei_7286-2024__pl9903-2024_-_promulgada.pdf",
+     "sha256": "06ebd19a29b3664592519845a4678656ff4030b6bd3fa48d9d3ca92dce75c7c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07285",
+   "short": "Lei 7285/2024",
+   "title": "Lei nº 7.285, de 15 de julho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9774",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9774/lei_7285-2024__pl9904-2024_-_promulgada.pdf",
+     "sha256": "1217e4f72a182349c7d79bb1a41a53d493ce1373b654febff50fda80ec0c3087"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07284",
+   "short": "Lei 7284/2024",
+   "title": "Lei nº 7.284, de 15 de julho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9773",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9773/lei_7284-2024__pl9905-2024_-_promulgada.pdf",
+     "sha256": "cf72476be538871b8dcf5aaf1b4b0f1f457b3b046c29d16db0a6820f66da74a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07283",
+   "short": "Lei 7283/2024",
+   "title": "Lei nº 7.283, de 15 de julho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9772",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9772/lei_7283-2024__pl9917-2024_-_promulgada.pdf",
+     "sha256": "c12954d0dc8962397c4d2f071277c0057d9b2abfdb2243137ba7aff675eb2e10"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07282",
+   "short": "Lei 7282/2024",
+   "title": "Lei nº 7.282, de 15 de julho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9771",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9771/lei_7282-2024__pl9921-2024_-_promulgada.pdf",
+     "sha256": "a5fff368920e708495ec831323049ec85d11dddf47d9a30c81e29e8f048f5aa0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07281",
+   "short": "Lei 7281/2024",
+   "title": "Lei nº 7.281, de 15 de julho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9770",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9770/lei_7281-2024__pl9928-2024_-_promulgada.pdf",
+     "sha256": "c75c87b8b7f2db6ad21dc21f715839a7c625fde5e117f5dc164389f84b90e248"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07278",
+   "short": "Lei 7278/2024",
+   "title": "Lei nº 7.278, de 20 de junho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9763",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9763/lei_7278-2024__pl9879-2024_-_promulgada.pdf",
+     "sha256": "67a03611a0936b808ed649163ac997e746ec653fa2c876ffecec9627d5858845"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07277",
+   "short": "Lei 7277/2024",
+   "title": "Lei nº 7.277, de 20 de junho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9762",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9762/lei_7277-2024__pl9916-2024_-_promulgada.pdf",
+     "sha256": "a4d859620ef2a814bb45a04bc47d8dfb70a5e04cc7b4d8d386c0869bb5a8f71c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07276",
+   "short": "Lei 7276/2024",
+   "title": "Lei nº 7.276, de 20 de junho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9761",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9761/lei_7276-2024__pl9621-2023_-_promulgada.pdf",
+     "sha256": "8131acb2da98928d7864a04a5b8f71737fac1956bd9826f80466517647cef4e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07274",
+   "short": "Lei 7274/2024",
+   "title": "Lei nº 7.274, de 13 de junho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9743",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9743/lei_7274-2024__pl9845-2024_-_promulgada.pdf",
+     "sha256": "1fe77c497bbce8054b24751d7312825b41dd072a2291293606983851d30c6ab2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07273",
+   "short": "Lei 7273/2024",
+   "title": "Lei nº 7.273, de 13 de junho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9742",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9742/lei_7273-2024__pl9860-2024_-_promulgada.pdf",
+     "sha256": "436acf7b5ab399e565ad4ecbd1c626b3675073eecdedb0a15438c5607634aeba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07272",
+   "short": "Lei 7272/2024",
+   "title": "Lei nº 7.272, de 13 de junho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9741",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9741/lei_7272-2024__pl9877-2024_-_promulgada.pdf",
+     "sha256": "e1ddc73dc273be1885f0a666ce2f86c4779cffafc0f96d07ffc61e59066428d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07271",
+   "short": "Lei 7271/2024",
+   "title": "Lei nº 7.271, de 13 de junho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9740",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9740/lei_7271-2024__pl9878-2024_-_promulgada.pdf",
+     "sha256": "236bd0f5309c5f5b2dfd77e68efb0f9c8229a3c72ee900334da49df9f970a774"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07270",
+   "short": "Lei 7270/2024",
+   "title": "Lei nº 7.270, de 13 de junho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9739",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9739/lei_7270-2024__pl9884-2024_-_promulgada.pdf",
+     "sha256": "f50df3c373573d2bd0121aa2a85f0fe34188488db77c0ec2e4d44b7d90d3cf2d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07269",
+   "short": "Lei 7269/2024",
+   "title": "Lei nº 7.269, de 13 de junho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9738",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9738/lei_7269-2024__pl9887-2024_-_promulgada.pdf",
+     "sha256": "214c01bc3fac8870bc34059d50bf361f20006f41d459c60564c6ac66cc2def1d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07268",
+   "short": "Lei 7268/2024",
+   "title": "Lei nº 7.268, de 13 de junho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9737",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9737/lei_7268-2024__pl9890-2024_-_promulgada.pdf",
+     "sha256": "2fee1f625b84841379233195bff00396c28fefcc7ddb2a91dd3fbd421cd7c16a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07267",
+   "short": "Lei 7267/2024",
+   "title": "Lei nº 7.267, de 13 de junho de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9736",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9736/lei_7267-2024__pl9895-2024_-_promulgada.pdf",
+     "sha256": "63e69174adea16e18fca5afeba090343e4192ea84e4e2dca7cbeeefd535a6037"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07260",
+   "short": "Lei 7260/2024",
+   "title": "Lei nº 7.260, de 23 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9709",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9709/lei_7260-2024__pl9726-2023_-_promulgada.pdf",
+     "sha256": "0ea98b78ccb58cf04a8b86a1277c870bb39e3343c9fa4de766d2df0121ec901f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07257",
+   "short": "Lei 7257/2024",
+   "title": "Lei nº 7.257, de 16 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9704",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9704/lei_7257-2024__pl9825-2023_-_promulgada.pdf",
+     "sha256": "a84a6c32330d8efcb0cdeefea29dbad374c42e470f886f69d35ef876ecf31caa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07256",
+   "short": "Lei 7256/2024",
+   "title": "Lei nº 7.256, de 16 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9703",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9703/lei_7256-2024__pl9817-2023_-_promulgada.pdf",
+     "sha256": "fcbc3167044a46058ed15807ed0b2730523ec1d202865623d308d2849c9d0797"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07255",
+   "short": "Lei 7255/2024",
+   "title": "Lei nº 7.255, de 16 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9702",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9702/lei_7255-2024__pl9767-2023_-_promulgada.pdf",
+     "sha256": "ef9771ec99abbe10870582baca3dfcd58656c13150e02ac4d0645ac248c9b8ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07254",
+   "short": "Lei 7254/2024",
+   "title": "Lei nº 7.254, de 16 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9701",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9701/lei_7254-2024__pl9766-2023_-_promulgada.pdf",
+     "sha256": "2b33c20adcbb44bb7d0a25cec17818ac9e9bbf9b73df4471334fcbac75cfe7ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07253",
+   "short": "Lei 7253/2024",
+   "title": "Lei nº 7.253, de 16 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9700",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9700/lei_7253-2024__pl9764-2023_-_promulgada.pdf",
+     "sha256": "c5203def9754fab001680b620b8e7824a6daff57cb9fa539e6b4f7ee99a44927"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07252",
+   "short": "Lei 7252/2024",
+   "title": "Lei nº 7.252, de 16 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9699",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9699/lei_7252-2024__pl9763-2023_-_promulgada.pdf",
+     "sha256": "bbfe06e102f20e9262fba42c003a9ec6e4165ed0e4c71ec8681d48b40130e615"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07251",
+   "short": "Lei 7251/2024",
+   "title": "Lei nº 7.251, de 16 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9698",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9698/lei_7251-2024__pl9755-2023_-_promulgada.pdf",
+     "sha256": "e2946957bdab367f243877e5e00b6d9e00545b24c6f2e4af25ab87e9ebe1683a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07250",
+   "short": "Lei 7250/2024",
+   "title": "Lei nº 7.250, de 16 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9697",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9697/lei_7250-2024__pl9754-2023_-_promulgada.pdf",
+     "sha256": "d866de35d28255e6449c36628e373056f9e7c5273bed08338fed949016487050"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07249",
+   "short": "Lei 7249/2024",
+   "title": "Lei nº 7.249, de 16 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9696",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9696/lei_7249-2024__pl9753-2023_-_promulgada.pdf",
+     "sha256": "65ef90e1df62f3f1de566b64b8af79245738eb1d7db22a5a2f7e2d4da36e9315"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07248",
+   "short": "Lei 7248/2024",
+   "title": "Lei nº 7.248, de 16 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9695",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9695/lei_7248-2024__pl9751-2023_-_promulgada.pdf",
+     "sha256": "271900685c11e1d1bb9610ae5cca598d11648a089d1aff1df7067badbd3eddb2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07247",
+   "short": "Lei 7247/2024",
+   "title": "Lei nº 7.247, de 16 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9694",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9694/lei_7247-2024__pl9750-2023_-_promulgada.pdf",
+     "sha256": "872f7617140c0130dec242dc1e010764f9f4ee25571b2877927c80c762739bcf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07246",
+   "short": "Lei 7246/2024",
+   "title": "Lei nº 7.246, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9693",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9693/lei_7246-2024__pl9590-2023_-_promulgada.pdf",
+     "sha256": "462b435175b547cbe05ac6d8d3db73a891dec0ea64f17674c02415a71f9c23c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07245",
+   "short": "Lei 7245/2024",
+   "title": "Lei nº 7.245, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9692",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9692/lei_7245-2024__pl9630-2023_-_promulgada.pdf",
+     "sha256": "254f95308b742db1eda76baa4d5df0d66bbcda93b6a26b7622c1e7b4d622b7cc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07244",
+   "short": "Lei 7244/2024",
+   "title": "Lei nº 7.244, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9691",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 7,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9691/lei_7244-2024__pl9635-2023_-_promulgada.pdf",
+     "sha256": "c7bdd9d598f0e0a8a892bd97b64a725e822af14dda710d48da117d2d76c29785"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07243",
+   "short": "Lei 7243/2024",
+   "title": "Lei nº 7.243, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9690",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9690/lei_7243-2024__pl9655-2023_-_promulgada.pdf",
+     "sha256": "43982cf7636cd63ff5d66214eb6335b8cdb42f41cc8ef3ad96eb03248b32cb11"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07242",
+   "short": "Lei 7242/2024",
+   "title": "Lei nº 7.242, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9689",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9689/lei_7242-2024__pl9775-2023_-_promulgada.pdf",
+     "sha256": "eaed8f620ef6903ce7dc72f388bee4f1a97364a91003fe5f52708e23f129948e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07241",
+   "short": "Lei 7241/2024",
+   "title": "Lei nº 7.241, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9688",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9688/lei_7241-2024__pl9777-2023_-_promulgada.pdf",
+     "sha256": "23cdcccfaa79e9ec5ebd44d9bec04b4620470616584e7fcf5820646d42633dc1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07240",
+   "short": "Lei 7240/2024",
+   "title": "Lei nº 7.240, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9687",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9687/lei_7240-2024__pl9778-2023_-_promulgada.pdf",
+     "sha256": "3f9c7527816b4f1fb60bcb5834f77b14d5d41575a2704e043a10f15d27d04291"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07239",
+   "short": "Lei 7239/2024",
+   "title": "Lei nº 7.239, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9686",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9686/lei_7239-2024__pl9779-2023_-_promulgada.pdf",
+     "sha256": "49a483091a14a97be216d2e8888b8f2ea6c4baa07d6c623ad3631498836c2055"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07238",
+   "short": "Lei 7238/2024",
+   "title": "Lei nº 7.238, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9685",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9685/lei_7238-2024__pl9780-2023_-_promulgada.pdf",
+     "sha256": "5d4b9137fbb55088ad9bfcd9ba08841a72829b2cb85fcf0ee6f56fcc8a576130"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07237",
+   "short": "Lei 7237/2024",
+   "title": "Lei nº 7.237, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9684",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9684/lei_7237-2024__pl9781-2023_-_promulgada.pdf",
+     "sha256": "5c825e57adde68380d01bfdd3c48f05f882e133b11db48a4a327d78ff6b8e39a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07236",
+   "short": "Lei 7236/2024",
+   "title": "Lei nº 7.236, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9683",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9683/lei_7236-2024__pl9782-2023_-_promulgada.pdf",
+     "sha256": "09b45d0087903b1a3a9acc48573e60b5381f802ddae2043e93df1c7073190178"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07235",
+   "short": "Lei 7235/2024",
+   "title": "Lei nº 7.235, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9682",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9682/lei_7235-2024__pl9826-2024_-_promulgada.pdf",
+     "sha256": "eb6674fa512d34011a2c705bc80334bdcd56927e8d568e7f2a6cdf1000b296c4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07234",
+   "short": "Lei 7234/2024",
+   "title": "Lei nº 7.234, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9681",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9681/lei_7234-2024__pl9828-2024_-_promulgada.pdf",
+     "sha256": "a2b915209507b8a51bb4478bdddbd535affa1d7769d68d6cadd78cb43759c194"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07233",
+   "short": "Lei 7233/2024",
+   "title": "Lei nº 7.233, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9680",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9680/lei_7233-2024__pl9857-2024_-_promulgada.pdf",
+     "sha256": "7c25cb66821ba46b7d8830245bb6c20b387dc4e60ed9e6c1e7b8c619f5f4726c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07232",
+   "short": "Lei 7232/2024",
+   "title": "Lei nº 7.232, de 14 de maio de 2024",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/9679",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2024/9679/lei_7232-2024__pl9859-2024_-_promulgada.pdf",
+     "sha256": "bc6107d25d3e87867cbbe5c607f488af626c31f59953e16010f0e1c6feb490e7"
+    }
+   ]
+  }
+ ]
+}
