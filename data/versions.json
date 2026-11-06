@@ -6160,6 +6160,482 @@
      "sha256": "3e017fc7f622c92f5cb0aa9f1ba210511a17e17e6c2d92bef37368347d16ca43"
     }
    ]
+  },
+  {
+   "slug": "lei-2021-06707",
+   "short": "Lei 6707/2021",
+   "title": "Lei nº 6.707, de 4 de junho de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8639",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8639/lei_6707-2021.pdf",
+     "sha256": "40897c2f5eb25e17e6aa9300d1e900aae02dd234285de68041e9bc5e7827f634"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06706",
+   "short": "Lei 6706/2021",
+   "title": "Lei nº 6.706, de 4 de junho de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8638",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8638/lei_6706-2021.pdf",
+     "sha256": "3352d3fc437bbcd506238d1f1e8288d5d94aae75608946d34d6e575ceda3a37c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06705",
+   "short": "Lei 6705/2021",
+   "title": "Lei nº 6.705, de 4 de junho de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8637",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8637/lei_6705-2021.pdf",
+     "sha256": "1a5993dc7bd677d465c594f5388e79bcdbe0c671f5520c773477a4404cad6f7d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06704",
+   "short": "Lei 6704/2021",
+   "title": "Lei nº 6.704, de 4 de junho de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8636",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8636/lei_6704-2021.pdf",
+     "sha256": "a5c3bb01d5652c35b92fd49ac4cef25b503cccc98a0f01c882a2959c96528021"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06703",
+   "short": "Lei 6703/2021",
+   "title": "Lei nº 6.703, de 4 de junho de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8635",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8635/lei_6703-2021.pdf",
+     "sha256": "cad3ffbff7744cbf2089cdcb44aa2229a96e5f0c3feb73d0145e8867c8c64548"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06702",
+   "short": "Lei 6702/2021",
+   "title": "Lei nº 6.702, de 4 de junho de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8634",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8634/lei_6702-2021.pdf",
+     "sha256": "5a708385fc7382a8203840781eaec3112c6c9e36a6b8c156847e64de3fa4b770"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06701",
+   "short": "Lei 6701/2021",
+   "title": "Lei nº 6.701, de 4 de junho de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8633",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8633/lei_6701-2021.pdf",
+     "sha256": "4d34c93fa76231dd9dd6e0df9063a7828a65bd30f07f9b75eb5db853cf7971ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06699",
+   "short": "Lei 6699/2021",
+   "title": "Lei nº 6.699, de 29 de abril de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8605",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 7,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8605/lei_6699-2021.pdf",
+     "sha256": "86e43494401d2f2f9bfe73d309b93b356e81badc8337355ec46b34cd1b563938"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06698",
+   "short": "Lei 6698/2021",
+   "title": "Lei nº 6.698, de 13 de abril de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8604",
+   "versions": [
+    {
+     "from": "2021-04-13",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8604/lei_6698-2021.pdf",
+     "sha256": "58915162aa0558c0465d1a9c51d9bbfc8bfaceb9b5b92adbbf394aa3922ec20c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06693",
+   "short": "Lei 6693/2021",
+   "title": "Lei nº 6.693, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8599",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8599/lei_6.693-2021_pl_8555-2020.pdf",
+     "sha256": "ee8984954d8d29986ff1c5a80e5368da20a20376d9e4991d178cf2292f281c38"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06692",
+   "short": "Lei 6692/2021",
+   "title": "Lei nº 6.692, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8598",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8598/lei_6.692-2021_pl_8556-2020.pdf",
+     "sha256": "61631b4a89a7b930ac874b688e6e4fa5d6959cd10aad244f985395d23a20d3c6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06691",
+   "short": "Lei 6691/2021",
+   "title": "Lei nº 6.691, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8597",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8597/lei_6.691-2021_pl_8557-2020.pdf",
+     "sha256": "3d505924c5b2e425121294d38605edeea41faba34c7c699298a3cadd0d1b6cb9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06690",
+   "short": "Lei 6690/2021",
+   "title": "Lei nº 6.690, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8596",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8596/lei_6.690-2021_pl_8558-2020.pdf",
+     "sha256": "19c4c5015b98df95fcc2daf09d6dea41ea359c586427947a7526f1f21ec57cfe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06689",
+   "short": "Lei 6689/2021",
+   "title": "Lei nº 6.689, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8595",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8595/lei_6.689-2021_pl_8559-2020.pdf",
+     "sha256": "ecc09e2b692ecbf50ab3f47c155edea27da3536a83c0063ba8163bdc203b1367"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06688",
+   "short": "Lei 6688/2021",
+   "title": "Lei nº 6.688, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8594",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8594/lei_6.688-2021_pl_8563-2020.pdf",
+     "sha256": "dd7609739b53be877b1ca6bb27785e5013a4baf3a0ce603da526a1405e4b16f5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06687",
+   "short": "Lei 6687/2021",
+   "title": "Lei nº 6.687, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8593",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8593/lei_6.687-2021_pl_8564-2020.pdf",
+     "sha256": "906a07fa6904aee97c9263327a992529b9e12f38c8c8ed0265ea874e068c5138"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06686",
+   "short": "Lei 6686/2021",
+   "title": "Lei nº 6.686, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8592",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8592/lei_6.686-2021_pl_8565-2020.pdf",
+     "sha256": "c8edaeb539154dfdff4fdaa52ed0b29efa547288d0b64c5a952116b24e7bfd54"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06685",
+   "short": "Lei 6685/2021",
+   "title": "Lei nº 6.685, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8591",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8591/lei_6.685-2021_pl_8566-2020.pdf",
+     "sha256": "f7c6327bce951bc8bcadb9006a84b6aa841f44535dfef2675fa9eb6b467e5f33"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06684",
+   "short": "Lei 6684/2021",
+   "title": "Lei nº 6.684, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8590",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8590/lei_6.684-2021_pl_8567-2020.pdf",
+     "sha256": "3975ff78bd6220348ac07bac90d26d760375ce6fccbeb776c0ee8903c77ff0eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06683",
+   "short": "Lei 6683/2021",
+   "title": "Lei nº 6.683, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8589",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8589/lei_6.683-2021_pl_8571-2020.pdf",
+     "sha256": "3b7334e26265aa184a0a755b347931f466d4fe867a64476e5225bcdeda1f7ee6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06682",
+   "short": "Lei 6682/2021",
+   "title": "Lei nº 6.682, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8588",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8588/lei_6.682-2021_pl_8572-2020.pdf",
+     "sha256": "6774c6b9ddb09369f13bd11846b045aa27973a941c44871941507ce63baacd47"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06681",
+   "short": "Lei 6681/2021",
+   "title": "Lei nº 6.681, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8587",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8587/lei_6.681-2021_pl_8573-2020.pdf",
+     "sha256": "53b24d38e6899e3163e3e940d7190b68bbb028bfd35ddbb140ece3b063b8c84c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06680",
+   "short": "Lei 6680/2021",
+   "title": "Lei nº 6.680, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8586",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8586/lei_6.680-2021_pl_8574-2020.pdf",
+     "sha256": "50a926df5195391a275555bd353f6075db40115c93b6e944015f7766438ee456"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06679",
+   "short": "Lei 6679/2021",
+   "title": "Lei nº 6.679, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8585",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8585/lei_6.679-2021_pl_8575-2020.pdf",
+     "sha256": "d34a62b740d1affa627046e7c0e792b4594380d261840335a956179bb785a7ad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06678",
+   "short": "Lei 6678/2021",
+   "title": "Lei nº 6.678, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8584",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8584/lei_6.678-2021_pl_8576-2020.pdf",
+     "sha256": "b51d0729946ccde24033c02bcb01d65f34c00b1ef5eb121d39e2d87008edc11d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06677",
+   "short": "Lei 6677/2021",
+   "title": "Lei nº 6.677, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8583",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8583/lei_6.677-2021_pl_8577-2020.pdf",
+     "sha256": "691ce7899db1cb146305c1d6dcc7559fa918605487163845f582929431a573de"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06676",
+   "short": "Lei 6676/2021",
+   "title": "Lei nº 6.676, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8582",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8582/lei_6.676-2021_pl_8578-2020.pdf",
+     "sha256": "694c46a0476e1177d68e914a23bd77f8b21c277eaa69e09e8a61bf6d779e1cca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06675",
+   "short": "Lei 6675/2021",
+   "title": "Lei nº 6.675, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8581",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8581/lei_6.675-2021_pl_8579-2020.pdf",
+     "sha256": "51ef6ec7f1e0721f9a5dfdf94bcb7a85ed7622d4f8c9e4d9af05b1c0a6e8bdd5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06674",
+   "short": "Lei 6674/2021",
+   "title": "Lei nº 6.674, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8580",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8580/lei_6.674-2021_pl_8580-2020.pdf",
+     "sha256": "2e36f3b65822feb88d4181f6e2b567f7e9a76f8501557cf1bda9e2dc6f39d4bc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06673",
+   "short": "Lei 6673/2021",
+   "title": "Lei nº 6.673, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8579",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8579/lei_6.673-2021_pl_8581-2020.pdf",
+     "sha256": "24d10633ea0b326905fc6f5b6203f9aad9832ec5b376796b3ff6e85fd6816002"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06672",
+   "short": "Lei 6672/2021",
+   "title": "Lei nº 6.672, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8578",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8578/lei_6.672-2021_pl_8582-2020.pdf",
+     "sha256": "b45bc94ec2a814d0a9d7fc4269890400db987742ca1f4ab8d88c6e9acd06e360"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06671",
+   "short": "Lei 6671/2021",
+   "title": "Lei nº 6.671, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8577",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8577/lei_6.671-2021_pl_8583-2020.pdf",
+     "sha256": "2939f98ac995c8c50f148ab20270f8e1a80358944cef8cda712fb4fe7a2fd341"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06670",
+   "short": "Lei 6670/2021",
+   "title": "Lei nº 6.670, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8576",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8576/lei_6.670-2021_pl_8584-2020.pdf",
+     "sha256": "0cbf44b8bbe31fac9aa07772cc8db8075591413699d2d606295caaf6d54ed145"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06669",
+   "short": "Lei 6669/2021",
+   "title": "Lei nº 6.669, de 3 de fevereiro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8575",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8575/lei_6.669-2021_pl_8585-2020.pdf",
+     "sha256": "c84e505ecbef92e24509c7f5f068c36c06c0eb6077ba13bde28fa0ccdc282ba2"
+    }
+   ]
   }
  ]
 }
