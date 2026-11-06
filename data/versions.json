@@ -7210,6 +7210,706 @@
      "sha256": "0d242d50d9fe35a9f1c181079ce90bd9d849bd7864938be1093829eb78dce343"
     }
    ]
+  },
+  {
+   "slug": "lei-2020-06620",
+   "short": "Lei 6620/2020",
+   "title": "Lei nº 6.620, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8524",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8524/lei_6.620_-_pl_8538-2020.pdf",
+     "sha256": "17ca877ccdcbf808659a708c1779acea9075249c9d135a7145c17f278a966486"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06619",
+   "short": "Lei 6619/2020",
+   "title": "Lei nº 6.619, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8523",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8523/lei_6.619-2020_pl_8.536-2020.pdf",
+     "sha256": "f52067cb986c0294643b66ada6a5e8ce51e33aaaf75c5ded992dc518e594c06e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06618",
+   "short": "Lei 6618/2020",
+   "title": "Lei nº 6.618, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8522",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8522/lei_6.618_-_pl_8524-2020.pdf",
+     "sha256": "16b685d28be67adc3632e64d49d32e351b701ae9061f164c7eba4236e6f42d30"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06617",
+   "short": "Lei 6617/2020",
+   "title": "Lei nº 6.617, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8521",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8521/lei_6.617-2020_pl_8.532-2019.pdf",
+     "sha256": "2c2add12c3d2535e077e858db8b8d948678e35f29371651fe85ac0615cfc8403"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06616",
+   "short": "Lei 6616/2020",
+   "title": "Lei nº 6.616, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8520",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8520/lei_6.616_-_pl_8531-2020.pdf",
+     "sha256": "a2a45af2d751bd79da2eafa324c06ec86e64cac7a3df4620943ce5c40163bc65"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06615",
+   "short": "Lei 6615/2020",
+   "title": "Lei nº 6.615, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8519",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8519/lei_6.615-2020_pl_8.530-2020.pdf",
+     "sha256": "c41fdf6371830241eacd20e485bd518a4ccbf358537ff69cce5dc643a29c68ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06614",
+   "short": "Lei 6614/2020",
+   "title": "Lei nº 6.614, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8518",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8518/lei_6.614_-_pl_8529-2020.pdf",
+     "sha256": "70d41576c623973adbc2663713ff294a58d7ef278943d0a65f0b506152c221ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06613",
+   "short": "Lei 6613/2020",
+   "title": "Lei nº 6.613, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8517",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8517/lei_6.613-2020_pl_8.528-2020.pdf",
+     "sha256": "6eef8386c6b372791ac42b0c0966a65a0265953684de327d7624d87d14c9a6ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06612",
+   "short": "Lei 6612/2020",
+   "title": "Lei nº 6.612, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8516",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8516/lei_6.612_-_pl_8527-2020.pdf",
+     "sha256": "ba5d946a3f213508d10692ef9f6c29ce445da852d9074b4886c3239684087f00"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06611",
+   "short": "Lei 6611/2020",
+   "title": "Lei nº 6.611, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8515",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8515/lei_6.611-2020_pl_8.526-2020.pdf",
+     "sha256": "e755e7bfd3f353be3589d0d012b1c9ce8bf705986c52ea8fd4e7091e4e99ab74"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06610",
+   "short": "Lei 6610/2020",
+   "title": "Lei nº 6.610, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8514",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8514/lei_6.610_-_pl_8525-2020.pdf",
+     "sha256": "f3a31297eea36622120128d634d6edbf401159aa325165acea0d8a0ddcdedd83"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06609",
+   "short": "Lei 6609/2020",
+   "title": "Lei nº 6.609, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8513",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8513/lei_6.609-2020_pl_8.450-2019.pdf",
+     "sha256": "84b2d507130eb4b2707acc762eb6dac6fb084ec78cd3bf1cb7b1252d5a031bce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06608",
+   "short": "Lei 6608/2020",
+   "title": "Lei nº 6.608, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8512",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8512/lei_6.608_-_pl_8508-2020.pdf",
+     "sha256": "ba8b5f4f4ff49f630cb9f38b9b7c08550fc99cdc65ffda55cf971fd49cece7db"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06607",
+   "short": "Lei 6607/2020",
+   "title": "Lei nº 6.607, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8511",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8511/lei_6.607-2020_pl_8.498-2020.pdf",
+     "sha256": "3813e0ec4d7b731e20262059e6295b66a7cabfcbab06004944fe08a5fdf51554"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06606",
+   "short": "Lei 6606/2020",
+   "title": "Lei nº 6.606, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8510",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8510/lei_6.606_-_pl_8497-2020.pdf",
+     "sha256": "50bd2deb4b07561c294455c958ac80c6e6485c243926dde7e13c23d0652323f2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06605",
+   "short": "Lei 6605/2020",
+   "title": "Lei nº 6.605, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8509",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8509/lei_6.605-2020_pl_8.477-2019.pdf",
+     "sha256": "491e708516d11e0f69c4c400c5a43fabc84477870fe2af99480c49ab61a8253c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06604",
+   "short": "Lei 6604/2020",
+   "title": "Lei nº 6.604, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8508",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8508/lei_6.604_-_pl_8468-2019.pdf",
+     "sha256": "0acc157e4693e96ea7c14ff0db1c8006885deef39fc144ba62ec8df8fc30cf3f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06603",
+   "short": "Lei 6603/2020",
+   "title": "Lei nº 6.603, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8507",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8507/lei_6.603-2020_pl_8.465-2019.pdf",
+     "sha256": "cd8f747aa76b24d45399e134d30750546483a540935816236ed2f6c6b930344f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06602",
+   "short": "Lei 6602/2020",
+   "title": "Lei nº 6.602, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8506",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8506/lei_6.602_-_pl_8464-2019.pdf",
+     "sha256": "0560ae0d990a2aa84c94795fc4d7fbe8a9b52d844b8713d848d730dcc103fa9a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06601",
+   "short": "Lei 6601/2020",
+   "title": "Lei nº 6.601, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8505",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8505/lei_6.601-2020_pl_8.523-2020.pdf",
+     "sha256": "501e2b8fcfeec18adab06f03dc9e67ce8955e9b51f0df3897345184b58089da3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06600",
+   "short": "Lei 6600/2020",
+   "title": "Lei nº 6.600, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8504",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8504/lei_6.600_-_pl_8504-2020.pdf",
+     "sha256": "de6ba60303610179fb831f9c5e438c4280897195aafee36672759df630f5961b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06599",
+   "short": "Lei 6599/2020",
+   "title": "Lei nº 6.599, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8503",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8503/lei_6.599-2020_pl_8.503-2020.pdf",
+     "sha256": "9d8cddd1aed8e313800cfbfb416f65c2fabbc906f0e261c69ea121f74ca6a29b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06598",
+   "short": "Lei 6598/2020",
+   "title": "Lei nº 6.598, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8502",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8502/lei_6.598-2020_pl_8.384-2019.pdf",
+     "sha256": "c95834f70fa13b5868fdb8fad9e9363df4d4e89ba2e32c57e0dfc4aa6d60f027"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06597",
+   "short": "Lei 6597/2020",
+   "title": "Lei nº 6.597, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8501",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8501/lei_6.597-2020_pl_8.385-2019.pdf",
+     "sha256": "8ceba88584744b8b8a17dc59c06c516441fff7fb3cf9c0a6957f5334bf2b1e62"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06596",
+   "short": "Lei 6596/2020",
+   "title": "Lei nº 6.596, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8500",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8500/lei_6.596-2020_pl_8.389-2019.pdf",
+     "sha256": "d146760a9a807d55d48c47f0c58d2b7026c6079b35139b2255ae7073410e6307"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06595",
+   "short": "Lei 6595/2020",
+   "title": "Lei nº 6.595, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8499",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8499/lei_6.595-2020_pl_8.392-2019.pdf",
+     "sha256": "d126667af857acfa3838acf6a6fda22932fa5510703f5c229b166807b1ac59e6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06594",
+   "short": "Lei 6594/2020",
+   "title": "Lei nº 6.594, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8498",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8498/lei_6.594-2020_pl_8.401-2019.pdf",
+     "sha256": "3a2f9ecffb397bc98d95b7c8bb382b6e6bfb4fae236b8b7b8680e970fa1e722d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06593",
+   "short": "Lei 6593/2020",
+   "title": "Lei nº 6.593, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8497",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8497/lei_6.593-2020_pl_8.402-2019.pdf",
+     "sha256": "e74dbc516550478c0c78d2f10487b8668fdd3a64249df45f1a81ba445c4ffab0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06592",
+   "short": "Lei 6592/2020",
+   "title": "Lei nº 6.592, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8496",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8496/lei_6.592-2020_pl_8.403-2019.pdf",
+     "sha256": "0456018d8dd09f228aaf26c666d19e7f76dfe37aa7db6c50030feb402a97d548"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06591",
+   "short": "Lei 6591/2020",
+   "title": "Lei nº 6.591, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8495",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8495/lei_6.591-2020_pl_8.404-2019.pdf",
+     "sha256": "0adad9345c9d9814f1ceb678253b47a9c08ac0c7900bf50053f17f878d00fb9d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06590",
+   "short": "Lei 6590/2020",
+   "title": "Lei nº 6.590, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8494",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8494/lei_6.590-2020_pl_8.405-2019.pdf",
+     "sha256": "d703c6f4d01e0d13720acb8afb3e9da40f2b6bcb0b64a675a99def693a62be9d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06589",
+   "short": "Lei 6589/2020",
+   "title": "Lei nº 6.589, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8493",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8493/lei_6.589-2020_pl_8.406-2019.pdf",
+     "sha256": "b3118c3b08e5945e37f027dd48e5a2d039532f6a3d371b643e99dc985c6288f4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06588",
+   "short": "Lei 6588/2020",
+   "title": "Lei nº 6.588, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8492",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8492/lei_6.588-2020_pl_8.408-2019.pdf",
+     "sha256": "e980e0b136f1e95f64b2d3f0c6cebbf98924b8865bc665630676b994517deaf2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06587",
+   "short": "Lei 6587/2020",
+   "title": "Lei nº 6.587, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8491",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8491/lei_6.587-2020_pl_8.409-2019.pdf",
+     "sha256": "1f9592ed9a12aa810f91de436e303e67fc618364c4056451d577b3e8ddf41eb0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06586",
+   "short": "Lei 6586/2020",
+   "title": "Lei nº 6.586, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8490",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8490/lei_6.586-2020_pl_8.410-2019.pdf",
+     "sha256": "8ae05fbc741060791e7343b334d01c68c4dea74d4f35bdbc19b6c6a55b22c168"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06585",
+   "short": "Lei 6585/2020",
+   "title": "Lei nº 6.585, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8489",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8489/lei_6.585-2020_pl_8.412-2019.pdf",
+     "sha256": "29675ae8e84d98485be6a0f1131f84018a0b5a6ce1e72d79ffee435590983e3f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06584",
+   "short": "Lei 6584/2020",
+   "title": "Lei nº 6.584, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8488",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8488/lei_6.584-2020_pl_8.413-2019.pdf",
+     "sha256": "645a0bbcb36e4920ff1c2c8d1a9975a88c1ef05bb08097ac193f5fee1fb3bf99"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06583",
+   "short": "Lei 6583/2020",
+   "title": "Lei nº 6.583, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8487",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8487/lei_6.583-2020_pl_8.414-2019.pdf",
+     "sha256": "06119c982f12bbce66a2cd168fb0d6a3a84f2184d517105574c37615e907abc5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06582",
+   "short": "Lei 6582/2020",
+   "title": "Lei nº 6.582, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8486",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8486/lei_6.582-2020_pl_8.415-2019.pdf",
+     "sha256": "e4adf471fbceee7a46f92a61ba77bf0446f67eb87a6b99dc8b9b757bb9213032"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06581",
+   "short": "Lei 6581/2020",
+   "title": "Lei nº 6.581, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8485",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8485/lei_6.581-2020_pl_8.416-2019.pdf",
+     "sha256": "ae537c7e3ca41768d2a09636ad2fb77f60a86dd065c3069c37928db20665e623"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06580",
+   "short": "Lei 6580/2020",
+   "title": "Lei nº 6.580, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8484",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8484/lei_6.580-2020_pl_8.419-2019.pdf",
+     "sha256": "7a476cc3850fa3c42c66d1d643c499a4189bb0579b871e6a3443f44a4b18494f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06579",
+   "short": "Lei 6579/2020",
+   "title": "Lei nº 6.579, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8483",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8483/lei_6.579-2020_pl_8.420-2019.pdf",
+     "sha256": "fae07823353f8bbc62f9c301f14eefefd66a5ed21a190cd4c01ba4e54f143ee8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06578",
+   "short": "Lei 6578/2020",
+   "title": "Lei nº 6.578, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8482",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8482/lei_6.578-2020_pl_8.430-2019.pdf",
+     "sha256": "1db1271e64cf9fd5006d273528fe447f369242000f164db5e3f6a91f490ad4fc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06577",
+   "short": "Lei 6577/2020",
+   "title": "Lei nº 6.577, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8481",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8481/lei_6.577-2020_pl_8.428-2019.pdf",
+     "sha256": "4eabd461d4e553c1f6fd666fc473037faf8518d7a59a4280f500f4396b9092a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06576",
+   "short": "Lei 6576/2020",
+   "title": "Lei nº 6.576, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8480",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8480/lei_6.576-2020_pl_8.431-2019.pdf",
+     "sha256": "b6eb31fb346052ea419fd51d5db1895698ca6a6263e5331f3ce740bc69fb51ad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06575",
+   "short": "Lei 6575/2020",
+   "title": "Lei nº 6.575, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8479",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8479/lei_6.575-2020_pl_8.440-2019.pdf",
+     "sha256": "f6b12123022e63768c3a90baca18b96c77fafc8eb0e48ad1da320deb5474410e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06574",
+   "short": "Lei 6574/2020",
+   "title": "Lei nº 6.574, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8478",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8478/lei_6.574-2020_pl_8.441-2019.pdf",
+     "sha256": "292ca41827ba5e2893d373d53d77a8b10e1ce5ba2d4bcb864dc56cd275ec5018"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06573",
+   "short": "Lei 6573/2020",
+   "title": "Lei nº 6.573, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8477",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8477/lei_6.573-2020_pl_8.447-2019.pdf",
+     "sha256": "0d6aa64fead267d3f73ba058b276373192113f88c68400aeb25c6634b85e5596"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06572",
+   "short": "Lei 6572/2020",
+   "title": "Lei nº 6.572, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8476",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8476/lei_6.572-2020_pl_8.448-2019.pdf",
+     "sha256": "20e9e2dacf86d257e14024f4b6d1b16c13eb8797c5351c6dcd10ed3e082fd5ee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06571",
+   "short": "Lei 6571/2020",
+   "title": "Lei nº 6.571, de 29 de dezembro de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8475",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8475/lei_6.571-2020_pl_8.451-2019.pdf",
+     "sha256": "03c72d06041c24a667f6cc2dbd876ec3e642e6a32327476a1b67ca7957ee8c37"
+    }
+   ]
   }
  ]
 }

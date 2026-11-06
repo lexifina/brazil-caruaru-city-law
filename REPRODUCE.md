@@ -27,6 +27,7 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Câmara Municipal de Caruaru, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.caruaru.pe.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Caruaru, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.caruaru.pe.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Caruaru, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.caruaru.pe.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Caruaru, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.caruaru.pe.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Caruaru, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.caruaru.pe.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Caruaru, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.caruaru.pe.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Caruaru, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.caruaru.pe.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Caruaru, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.caruaru.pe.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -549,20 +550,70 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2020-06623` | Lei nº 6.623, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
 | `lei-2020-06622` | Lei nº 6.622, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
 | `lei-2020-06621` | Lei nº 6.621, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06620` | Lei nº 6.620, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06619` | Lei nº 6.619, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06618` | Lei nº 6.618, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06617` | Lei nº 6.617, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06616` | Lei nº 6.616, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06615` | Lei nº 6.615, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06614` | Lei nº 6.614, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06613` | Lei nº 6.613, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06612` | Lei nº 6.612, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06611` | Lei nº 6.611, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06610` | Lei nº 6.610, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06609` | Lei nº 6.609, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06608` | Lei nº 6.608, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06607` | Lei nº 6.607, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06606` | Lei nº 6.606, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06605` | Lei nº 6.605, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06604` | Lei nº 6.604, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06603` | Lei nº 6.603, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06602` | Lei nº 6.602, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06601` | Lei nº 6.601, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06600` | Lei nº 6.600, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06599` | Lei nº 6.599, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06598` | Lei nº 6.598, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06597` | Lei nº 6.597, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06596` | Lei nº 6.596, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06595` | Lei nº 6.595, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06594` | Lei nº 6.594, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06593` | Lei nº 6.593, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06592` | Lei nº 6.592, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06591` | Lei nº 6.591, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06590` | Lei nº 6.590, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06589` | Lei nº 6.589, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06588` | Lei nº 6.588, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06587` | Lei nº 6.587, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06586` | Lei nº 6.586, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06585` | Lei nº 6.585, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06584` | Lei nº 6.584, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06583` | Lei nº 6.583, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06582` | Lei nº 6.582, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06581` | Lei nº 6.581, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06580` | Lei nº 6.580, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06579` | Lei nº 6.579, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06578` | Lei nº 6.578, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06577` | Lei nº 6.577, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06576` | Lei nº 6.576, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06575` | Lei nº 6.575, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06574` | Lei nº 6.574, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06573` | Lei nº 6.573, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06572` | Lei nº 6.572, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `lei-2020-06571` | Lei nº 6.571, de 29 de dezembro de 2020 | 1 | 2020-12-29 to 2020-12-29 |
 
-The build made 515 commits:
+The build made 565 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 515 | first version of an act |
+| 565 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 515 laws in the record.
-- 1030 tags.
+- 565 laws in the record.
+- 1130 tags.
 
 ## Dates
 
@@ -574,7 +625,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c9864d5a6869d09e827e72553e8df9d1108ecf3f687fcdab503790d2e6ed32aa` (1458722 bytes).
+- Corpus: sha256 `45cc837573df17bd621b045481cfca06399a388508a985cb9ad3da24a18b88f1` (1590222 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -649,6 +700,9 @@ No second build of this corpus has been compared yet.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 
 ## What AI did and did not do
 
@@ -659,6 +713,7 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
