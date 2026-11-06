@@ -5796,6 +5796,370 @@
      "sha256": "069d0f916218aeb583d102a59a99eb18dd061535d1fcb8a8ec8da449ae4ad7c0"
     }
    ]
+  },
+  {
+   "slug": "lei-2021-06739",
+   "short": "Lei 6739/2021",
+   "title": "Lei nº 6.739, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8696",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8696/lei_6739_projeto_8608_1.pdf",
+     "sha256": "2ad946f7a2c8ed3d6eb5ab96251032b43e6321c4d9c6fc97c74eda990d742903"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06738",
+   "short": "Lei 6738/2021",
+   "title": "Lei nº 6.738, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8695",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8695/lei_6738_projeto_8716.pdf",
+     "sha256": "82b59d91b45477729c79f37ff8340d1dd43cfbead58d249ed76788367c08c407"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06737",
+   "short": "Lei 6737/2021",
+   "title": "Lei nº 6.737, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8694",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8694/lei_6737_projeto_8765.pdf",
+     "sha256": "40371f6f823ff1f82628b4bd763312bbd7f46044ec6a27b0c32a21d154b9e3f0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06736",
+   "short": "Lei 6736/2021",
+   "title": "Lei nº 6.736, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8693",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8693/lei_6736_projeto_8676_1.pdf",
+     "sha256": "a55ca00dc0c97531b50f52eee6ce0c19de68591c460be9e8b671c5dfb4725032"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06735",
+   "short": "Lei 6735/2021",
+   "title": "Lei nº 6.735, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8692",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8692/lei_6735_projeto_8826.pdf",
+     "sha256": "e5f328bdc955863ccef945a5827fc00685f6f60b0d78e8d51f6b7a762c29bd21"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06734",
+   "short": "Lei 6734/2021",
+   "title": "Lei nº 6.734, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8691",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8691/lei_6734_projeto_8952.pdf",
+     "sha256": "49e5b8e85b725d08b284ba9aff83dffc306f2358fb35737e2ac24de623fa963a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06733",
+   "short": "Lei 6733/2021",
+   "title": "Lei nº 6.733, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8690",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8690/lei_6733_projeto_8595.pdf",
+     "sha256": "1bf077f1ac80dfd9fd0c6b495485f25a40b1beac5552df6642d3ad4a9f023193"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06732",
+   "short": "Lei 6732/2021",
+   "title": "Lei nº 6.732, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8689",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8689/lei_6732_projeto_8598.pdf",
+     "sha256": "a03f5e6413ac2e913f4aa5860f1e6618464dc2a39e3ba19f75e1f6fc4cd43966"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06731",
+   "short": "Lei 6731/2021",
+   "title": "Lei nº 6.731, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8688",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8688/lei_6731_projeto_8680.pdf",
+     "sha256": "c6e89b8ce81998d8baf140b03e1278582b62005258e0e77b42388996644cd838"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06730",
+   "short": "Lei 6730/2021",
+   "title": "Lei nº 6.730, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8687",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8687/lei_6730_projeto_8715.pdf",
+     "sha256": "655a7d6e2ab2dbb035de6b3f83bbc4e7b28fb038c0f5cc5bba62017502878acf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06729",
+   "short": "Lei 6729/2021",
+   "title": "Lei nº 6.729, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8686",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8686/lei_6729_projeto_8688.pdf",
+     "sha256": "c0f5bad0b876758d4292e124531d6ffe7465515e5f4835500342d36b4e47390f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06728",
+   "short": "Lei 6728/2021",
+   "title": "Lei nº 6.728, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8681",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8681/lei_6728-projeto_8689.pdf",
+     "sha256": "20babeb9150f5f0acb75d30dc0ab506c60f0d847c5c7b2a3d2269a6a9d5a2680"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06727",
+   "short": "Lei 6727/2021",
+   "title": "Lei nº 6.727, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8680",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8680/lei_6727-projeto_8691.pdf",
+     "sha256": "2a21f591c6def5ca24201906e6b7f4cb32ccd4efe8e4c69840d9124f6e3657b8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06726",
+   "short": "Lei 6726/2021",
+   "title": "Lei nº 6.726, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8679",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8679/lei_6726-projeto_8692.pdf",
+     "sha256": "18631eca819feffaf56ba7c973874c1d93753aaab7abdacb35adf9cbc7d1b80f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06725",
+   "short": "Lei 6725/2021",
+   "title": "Lei nº 6.725, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8678",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8678/lei_6725-projeto_8693.pdf",
+     "sha256": "f78f7e4adfe31ce8f79d07e3881f3a8bb396ec96e94effb4ab9e7ce996e25dc5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06724",
+   "short": "Lei 6724/2021",
+   "title": "Lei nº 6.724, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8677",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8677/lei_6724-projeto_8694.pdf",
+     "sha256": "dc072f10648b63177781e2f33a6ba0afdb95d164da21d1da827e7cea6e9012b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06723",
+   "short": "Lei 6723/2021",
+   "title": "Lei nº 6.723, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8676",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8676/lei_6723-projeto_8702.pdf",
+     "sha256": "a9f7a4a1ef52b246e7e6f03712cf799536bcc9abfacb9b34462ab4ffd0700371"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06722",
+   "short": "Lei 6722/2021",
+   "title": "Lei nº 6.722, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8675",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8675/lei_6722-projeto_8703.pdf",
+     "sha256": "1a7dca69c460eef273ea31c5e6c1926d1e4e2b83530d791b1cf78f19aaaa53fb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06721",
+   "short": "Lei 6721/2021",
+   "title": "Lei nº 6.721, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8674",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8674/lei_6721-projeto_8704.pdf",
+     "sha256": "28a1d30eb72baddf82aeeb8e9b5bd03d69e3badd4c553f2194e8cb8d9bf0a5d5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06720",
+   "short": "Lei 6720/2021",
+   "title": "Lei nº 6.720, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8673",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8673/lei_6720-projeto_8677.pdf",
+     "sha256": "282725c5f60d3d13fd9dd0a8c4e461e43b6665721ff9603d235f6d6031bf07c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06719",
+   "short": "Lei 6719/2021",
+   "title": "Lei nº 6.719, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8672",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8672/lei_6719-projeto_8674.pdf",
+     "sha256": "771d9474c8da7be15ab8984514f905da8d9c0636cf0f6f7ba25f39f5f655cb87"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06718",
+   "short": "Lei 6718/2021",
+   "title": "Lei nº 6.718, de 18 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8671",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8671/lei_6718-projeto_8663.pdf",
+     "sha256": "3f3ddc3f616c033a29c694f5145d0beb0017709e3bd9c0d946c0dac161d2c018"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06717",
+   "short": "Lei 6717/2021",
+   "title": "Lei nº 6.717, de 4 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8664",
+   "versions": [
+    {
+     "from": "2021-08-04",
+     "units": 6,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8664/lei_6717-projeto_8724.pdf",
+     "sha256": "a3f97207a7b5784ba73102518f3e77d65c87fd2e0c61a12fd96690f886e6f6ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06716",
+   "short": "Lei 6716/2021",
+   "title": "Lei nº 6.716, de 4 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8663",
+   "versions": [
+    {
+     "from": "2021-08-04",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8663/lei_6716-projeto_8722.pdf",
+     "sha256": "a0029ff7dc4a5eb4557532aab44b65c9c29a577ee3401d55d14ddc25a08a3fe3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06715",
+   "short": "Lei 6715/2021",
+   "title": "Lei nº 6.715, de 4 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8662",
+   "versions": [
+    {
+     "from": "2021-08-04",
+     "units": 7,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8662/lei_6715_projeto_8768.pdf",
+     "sha256": "b2a7be44d3f9d25fb2fc474a78dd8978af571936dd78a5026e16c15db681761c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06714",
+   "short": "Lei 6714/2021",
+   "title": "Lei nº 6.714, de 4 de agosto de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8661",
+   "versions": [
+    {
+     "from": "2021-08-04",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8661/lei_6714_projeto_8785.pdf",
+     "sha256": "3e017fc7f622c92f5cb0aa9f1ba210511a17e17e6c2d92bef37368347d16ca43"
+    }
+   ]
   }
  ]
 }
