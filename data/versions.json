@@ -5754,6 +5754,48 @@
      "sha256": "cd01c34b06f29a9ba15913a175ee1e3aa037c6987c8241315d459a080f927021"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-06803",
+   "short": "Lei 6803/2022",
+   "title": "Lei nº 6.803, de 9 de fevereiro de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8803",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8803/lei_no_6803__1_pl-9168.pdf",
+     "sha256": "81b0e4d9965ae4ad88afc5a6a113a5ac0478c6e34ada730742129513da30ba78"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06802",
+   "short": "Lei 6802/2022",
+   "title": "Lei nº 6.802, de 9 de fevereiro de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8802",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8802/lei_no_6802__1_pl-9167.pdf",
+     "sha256": "ecd3dfb6f3a7ad3c4afd3eec56bb03ba9016a24607a092a10b31f9635c6559d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-06787",
+   "short": "Lei 6787/2021",
+   "title": "Lei nº 6.787, de 10 de dezembro de 2021",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8762",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2021/8762/lei_6787-_pl_9073.pdf",
+     "sha256": "069d0f916218aeb583d102a59a99eb18dd061535d1fcb8a8ec8da449ae4ad7c0"
+    }
+   ]
   }
  ]
 }
