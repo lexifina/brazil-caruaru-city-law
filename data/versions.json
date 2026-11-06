@@ -5530,6 +5530,230 @@
      "sha256": "5688fe602d41202234c1a098c2dfbb225a51012501c8c56ce03a5837474980da"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-06829",
+   "short": "Lei 6829/2022",
+   "title": "Lei nº 6.829, de 14 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8846",
+   "versions": [
+    {
+     "from": "2022-03-14",
+     "units": 18,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8846/lo6829-2022-pl9223-2022.pdf",
+     "sha256": "5911849beecb3e4cb21ab28cb260378b287bb0a302c9a79fd83ad2dc46062934"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06827",
+   "short": "Lei 6827/2022",
+   "title": "Lei nº 6.827, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8841",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8841/lei_no_6.827-2021-pl7.766.pdf",
+     "sha256": "e7cfc90f3f9aa0c9b3b9e1c630a22031cd5e375c35c124dd117d61c30b544702"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06826",
+   "short": "Lei 6826/2022",
+   "title": "Lei nº 6.826, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8840",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8840/lei_no_6.826-2021-pl8.607.pdf",
+     "sha256": "b1cdb97c50a797e955708c2892c31a9a8ac8011d70ec6808e56ed39a2ef3708f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06825",
+   "short": "Lei 6825/2022",
+   "title": "Lei nº 6.825, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8839",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8839/lei_no_6.825-2021-pl8.611.pdf",
+     "sha256": "50e843d8fd005d0f6462c0c7243a5bcc73c60df1f3ad5237cda0718dff8d2cd8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06824",
+   "short": "Lei 6824/2022",
+   "title": "Lei nº 6.824, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8838",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8838/lei_no_6.824-2021-pl8.684.pdf",
+     "sha256": "c29ef963f60e93fe7b17f09eca2df2d823d6187afacb78dd9dd8a748de0b3886"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06823",
+   "short": "Lei 6823/2022",
+   "title": "Lei nº 6.823, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8837",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8837/lei_no_6.823-2021-pl8.829.pdf",
+     "sha256": "8f6766a20013e2c71a103be6bd7b8f173f0e45077d2e36983c54053b681d6d22"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06822",
+   "short": "Lei 6822/2022",
+   "title": "Lei nº 6.822, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8836",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8836/lei_no_6.822-2021-pl8.874.pdf",
+     "sha256": "fa601fb3f7739bfd427adf0e682e15543cb37e02b1a8e05583f2836cd477cbab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06821",
+   "short": "Lei 6821/2022",
+   "title": "Lei nº 6.821, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8835",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8835/lei_no_6.821-2021-pl8.909.pdf",
+     "sha256": "1cde968d95a7abcfe7b8b05e1e4395b9c32241f39dac884b3fd413418608c3bc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06820",
+   "short": "Lei 6820/2022",
+   "title": "Lei nº 6.820, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8834",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8834/lei_no_6.820-2021-pl8.915.pdf",
+     "sha256": "dc4e40c998d122516f65dc7a6aa6c54a4e28cbcca06674775d79450b5642d755"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06819",
+   "short": "Lei 6819/2022",
+   "title": "Lei nº 6.819, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8833",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 6,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8833/lei_no_6.819-2021-pl8.924.pdf",
+     "sha256": "f0e864a8fe31568fc35b22bada96cf335227101ac3c3332932d224e5147d5e62"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06818",
+   "short": "Lei 6818/2022",
+   "title": "Lei nº 6.818, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8831",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8831/lei_no_6.818-2021-pl8.955.pdf",
+     "sha256": "3a4fb59512ca4cc8ae04d70f4ac591910c7bd0a1d84729d567821d0505b3f100"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06817",
+   "short": "Lei 6817/2022",
+   "title": "Lei nº 6.817, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8830",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8830/lei_no_6.817-2021-pl8.962.pdf",
+     "sha256": "e7613326ef06f3227046aaf8ab4237d8cafb68d8f3534cd74e5319a8c00d6608"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06816",
+   "short": "Lei 6816/2022",
+   "title": "Lei nº 6.816, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8829",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8829/lei_no_6.816-2021-pl8.979.pdf",
+     "sha256": "42b47b04a71fe2a4b2874c4fd760a3b37ece2e80b8b808e8b996663a4b468884"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06815",
+   "short": "Lei 6815/2022",
+   "title": "Lei nº 6.815, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8828",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 3,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8828/lei_no_6.815-2021-pl8.993.pdf",
+     "sha256": "5067819572963174ecc15bb13c57904cc3f3c8a25072f83809c14f244e135fd0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06814",
+   "short": "Lei 6814/2022",
+   "title": "Lei nº 6.814, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8827",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8827/lei_no_6.814-2021-pl9.043.pdf",
+     "sha256": "b689ca9f7b32da75a6ab2fff25e5af3d904b02745cb7c93097c7bae64e2f19c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06811",
+   "short": "Lei 6811/2022",
+   "title": "Lei nº 6.811, de 10 de março de 2022",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8825",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2022/8825/lei_no_6.811__pl-9128.pdf",
+     "sha256": "cd01c34b06f29a9ba15913a175ee1e3aa037c6987c8241315d459a080f927021"
+    }
+   ]
   }
  ]
 }
