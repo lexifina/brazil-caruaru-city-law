@@ -8442,6 +8442,62 @@
      "sha256": "ace8968f1892eed6f736a31ee3308d711472a45797b8c19fde70e49073482196"
     }
    ]
+  },
+  {
+   "slug": "lei-2020-06514",
+   "short": "Lei 6514/2020",
+   "title": "Lei nº 6.514, de 13 de julho de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8407",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8407/lei_6514_de_2020.pdf",
+     "sha256": "c46d0feb41e70b98825bfe68c6d6447147c23a034134b0e87b4092421a70811d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06513",
+   "short": "Lei 6513/2020",
+   "title": "Lei nº 6.513, de 10 de julho de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8406",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 5,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8406/lei_6513.pdf",
+     "sha256": "bc9db825660b0ae0a9ad976e7a88e1f9203fa4df3f6aad6046984cccae3ff8e5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06512",
+   "short": "Lei 6512/2020",
+   "title": "Lei nº 6.512, de 28 de maio de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8403",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8403/lei_6512_de_2020.pdf",
+     "sha256": "37e61ff356c2f1f18fe38fdaa757476180ced5bf29e0dbdd59d6c7dfa16f6df1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-06511",
+   "short": "Lei 6511/2020",
+   "title": "Lei nº 6.511, de 28 de maio de 2020",
+   "url": "https://sapl.caruaru.pe.leg.br/norma/8402",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 4,
+     "source_url": "https://sapl.caruaru.pe.leg.br/media/sapl/public/normajuridica/2020/8402/lei_6511.pdf",
+     "sha256": "3204d5b18181b15866422bc040e34838b6db941acc9b96f5532d3cc2d2da617d"
+    }
+   ]
   }
  ]
 }
